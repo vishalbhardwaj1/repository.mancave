@@ -8,9 +8,15 @@ https://freeeucache3.streamlive.to/live/0fm1lstybe4a0j4/index.m3u8?st=tz1G9AiPWW
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN
 https://freeeucache3.streamlive.to/live/xoaaohmeuajfeyf/index.m3u8?st=_S7DsqIETravuAi7J1EbTg&expires=1505448221
+
+#EXTINF:-1,USA: ESPN
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/w1200-h630-p-k-no-nu/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="USA",ESPN 2
 https://freeeucache3.streamlive.to/live/rgyus7ao2ullmbt/index.m3u8?st=RM5XixqQg9hpnjiwHVyOzg&expires=1505448179
+
+#EXTINF:-1,USA: ESPN 2 HD
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/153.ts&amp;streamtype=TSDOWNLOADER&amp;name
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -42,3 +48,8 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1,USA: WWE Network
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
