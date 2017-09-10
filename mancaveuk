@@ -106,6 +106,8 @@ http://62.210.141.126:8080/movies24/mpegts
 http://62.210.141.126:8080/mtvclassic/mpegts
 #EXTINF:-1,MTV Dance
 http://62.210.141.126:8080/mtvdance/mpegts
+
+
 #EXTINF:-1,MTV Hits
 http://62.210.141.126:8080/mtvhits/mpegts
 #EXTINF:-1,MTV Music
@@ -170,3 +172,396 @@ http://62.210.141.126:8080/vh1/mpegts
 http://62.210.141.126:8080/viva/mpegts
 #EXTINF:-1,Yesterday
 http://62.210.141.126:8080/yesterday/mpegts
+
+#EXTINF:-1,Sky Sports F1 HD UK 
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/1567.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4264.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4146.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 2
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 3
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4148.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 4
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 5
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4150.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: BT Sport ESPN
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4265.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BT Sports 1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4140.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BT Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4142.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BT Sports 2
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4141.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BT Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4143.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Liverpool FC
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4145.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Manchester United TV
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4144.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Chelsea TV
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4261.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky News
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4242.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK_Sky Arts
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4225.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: 3E Ireland
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4162.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Baby TV
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4213.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: BBC 1 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4151.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: BBC 4 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4156.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: BoomeRang
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4211.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Boomerang 1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4212.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4205.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: CBS Action
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4217.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: CBS Drama
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4218.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: CBS Reality
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4219.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: CHANNEL 5
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4158.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Comedy Central
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4179.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4252.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Discovery History
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4257.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Disney Junior
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4204.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: E!
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4163.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: EuroSport 2
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4267.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Film 4 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4222.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Fox sd
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4176.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Gold TV
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4201.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: HBO
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4200.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: HBO Comedy HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4199.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: History Channel
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4258.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: ITV 1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4165.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: ITV 2 HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4166.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: ITV 3
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4167.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: ITV 4
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4168.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Itv Encore
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4164.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: ITVBE
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4247.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: More4
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4157.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Movies24
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4216.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Movies4Man
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4215.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Movies4Man1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4214.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: MTV Base
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4237.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: MTV Dance
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4236.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: MTV Hits
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4235.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: MTV Music
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4234.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: MTV Rocks
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4233.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Nat Geo
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4255.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Nat Geo Wild
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4253.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: National Geographic Channel
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4254.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: NIck JR
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4206.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Nick JR 1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4209.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Nick JR Peppa
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4210.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4207.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: NickToons
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4208.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: REALLY
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4246.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: RTE 3 J.R
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: RTE One
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4160.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: RTE Two
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4159.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Setanta spor
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4266.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SKY Atlantic HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4182.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies  Premiere
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4184.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Action
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4188.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4185.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Comedy HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4190.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4193.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SKY Movies Disney HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4202.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4191.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Drama & Romance.
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4192.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Family HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4189.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Greats HD HarryPotter
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4196.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Hits Showcase HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4186.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SKY Movies Premier HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4183.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4195.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Movies Select
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4197.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky One HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4180.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sky Thriller
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4194.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SKY Two HD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4181.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SkySelect
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4198.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SkyShowcase
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4187.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sony Max
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4232.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sony Movie
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4231.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Sony Sab
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4230.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SONY TV
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4229.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Star Gold
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4228.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Star LifeOK (hindi)
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4227.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: SYFY
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4174.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: TCM (film)
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4177.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: TLC-IRELAND
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4172.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: True Movies 1
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4220.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: True Movies 2
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4221.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: TV Nasa
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4171.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK: Watch
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4169.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:3E
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4239.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:5 USA
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4238.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Alibi
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4226.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Animal Planet
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4259.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:At The Races
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4262.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BBC News
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BBC Two
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:BBC_one
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4152.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:CBBC Three
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Channel 4
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4224.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Dave
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4260.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Discovery
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4251.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Discovery Home Health
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4250.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Discovery Science
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4249.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Discovery Turbo
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4248.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Disney XD
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4203.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Film 4
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4223.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:FOX
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4175.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Good Food
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Life Time
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4178.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:PICK
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4245.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Quest
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4244.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:TLC
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4241.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Travel
+plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/4240.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports F1
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 1
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 2
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 3
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 4
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+#EXTINF:-1,UK:Sky Sports 5
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
