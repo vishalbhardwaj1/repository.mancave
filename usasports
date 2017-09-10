@@ -54,4 +54,5 @@ http://xrxs.net/video/live-p12moun-2328.m3u8
 #EXTINF:-1,USA: WWE Network
 plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 
-
+#EXTINF:-1,USA - NBA HD
+http://4u.best-ul.com:8000/live/agron-krasniqi-suedi/agron-krasniqi-suedi/2602.ts
