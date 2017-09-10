@@ -48,6 +48,7 @@ plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV24
 plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 
 #EXTINF:-1,USA: Tsn-Sport 2 HD
+
 plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 
 
@@ -111,3 +112,27 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 
 #EXTINF:-1,QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg" group-title="USA",MeTV
+http://video.metv.com/metv/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png" group-title="USA",Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png" group-title="USA",Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" group-title="USA",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.PNG" group-title="USA",Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
