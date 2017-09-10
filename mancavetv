@@ -10,11 +10,6 @@ http://mancavekodi.com
 #EXTINF:-1,paypal.me/mancavekodi
 http://mancavekodi.com
 
-#EXTINF:-1 tvg-id="" tvg-name="HSN" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 
 #EXTINF:-1,USA | BLOOMBERG
 plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
@@ -110,3 +105,9 @@ http://tv.bmx-tv.top:1935/live/18.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Yes TV" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HSN" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
