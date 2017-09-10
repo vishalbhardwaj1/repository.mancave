@@ -132,6 +132,7 @@ http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playli
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Media
+
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png" group-title="USA",Classic Arts Showcase
@@ -202,3 +203,18 @@ https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="InfoWars" tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" group-title="USA",InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" group-title="USA",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png" group-title="USA",Russia Today America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3144.jpg" group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
