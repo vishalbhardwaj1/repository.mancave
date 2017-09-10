@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1,3E
+http://62.210.141.126:8080/3e/mpegts
+#EXTINF:-1,4Seven
+http://62.210.141.126:8080/4seven/mpegts
+#EXTINF:-1,5 Star
+http://62.210.141.126:8080/5star/mpegts
+#EXTINF:-1,5USA
+http://62.210.141.126:8080/5usa/mpegts
+#EXTINF:-1,Alibi
+http://62.210.141.126:8080/alibi/mpegts
+#EXTINF:-1,Animal Planet
+http://62.210.141.126:8080/animalplanet/mpegts
+#EXTINF:-1,BBC1
+http://62.210.141.126:8080/bbc1/mpegts
+#EXTINF:-1,BBC2 Wales
+http://62.210.141.126:8080/bbc2wales/mpegts
+#EXTINF:-1,BBC Alba
+http://62.210.141.126:8080/bbcalba/mpegts
+#EXTINF:-1,BBC News
+http://62.210.141.126:8080/bbcnews/mpegts
+#EXTINF:-1,BT Sport 1
+http://62.210.141.126:8080/btsport1hd/mpegts
+#EXTINF:-1,BT Sport 2
+http://62.210.141.126:8080/btsport2hd/mpegts
+#EXTINF:-1,BT Sport 3
+http://62.210.141.126:8080/btsport3hd/mpegts
+#EXTINF:-1,CBBC
+http://62.210.141.126:8080/cbbchd/mpegts
+#EXTINF:-1,CBeebies
+http://62.210.141.126:8080/cbeebieshd/mpegts
+#EXTINF:-1,CSB Action
+http://62.210.141.126:8080/cbsaction/mpegts
+#EXTINF:-1,CBS Drama
+http://62.210.141.126:8080/cbsdrama/mpegts
+#EXTINF:-1,Channel 5
+http://62.210.141.126:8080/channel5hd/mpegts
+#EXTINF:-1,Chelsea TV
+http://62.210.141.126:8080/chelseatv/mpegts
+#EXTINF:-1,CI
+http://62.210.141.126:8080/ci/mpegts
+#EXTINF:-1,CNBC
+http://62.210.141.126:8080/cnbc/mpegts
+#EXTINF:-1,CNN
+http://62.210.141.126:8080/cnn/mpegts
+#EXTINF:-1,Dave
+http://62.210.141.126:8080/dave/mpegts
+#EXTINF:-1,Discovery
+http://62.210.141.126:8080/discovery/mpegts
+#EXTINF:-1,Discovery Shed
+http://62.210.141.126:8080/discoveryshed/mpegts
+#EXTINF:-1,DMAX
+http://62.210.141.126:8080/dmax/mpegts
+#EXTINF:-1,Drama
+http://62.210.141.126:8080/drama/mpegts
+#EXTINF:-1,E4
+http://62.210.141.126:8080/e4/mpegts
+#EXTINF:-1,Eden
+http://62.210.141.126:8080/eden/mpegts
+#EXTINF:-1,EuroNews
+http://62.210.141.126:8080/euronews/mpegts
+#EXTINF:-1,Eurosport 1
+http://62.210.141.126:8080/eurosport1/mpegts
+#EXTINF:-1,Eurosport 2
+http://62.210.141.126:8080/eurosport2/mpegts
+#EXTINF:-1,Film 4
+http://62.210.141.126:8080/film4/mpegts
+#EXTINF:-1,Flava
+http://62.210.141.126:8080/flava/mpegts
+#EXTINF:-1,Food Network
+http://62.210.141.126:8080/foodnetwork/mpegts
+#EXTINF:-1,Fox
+http://62.210.141.126:8080/fox/mpegts
+#EXTINF:-1,Gold
+http://62.210.141.126:8080/gold/mpegts
+#EXTINF:-1,Good Food
+http://62.210.141.126:8080/goodfood/mpegts
+#EXTINF:-1,Heart
+http://62.210.141.126:8080/heart/mpegts
+#EXTINF:-1,History
+http://62.210.141.126:8080/history/mpegts
+#EXTINF:-1,H2
+http://62.210.141.126:8080/h2/mpegts
+#EXTINF:-1,Home
+http://62.210.141.126:8080/home/mpegts
+#EXTINF:-1,ITV
+http://62.210.141.126:8080/itv1/mpegts
+#EXTINF:-1,ITV 2
+http://62.210.141.126:8080/itv2/mpegts
+#EXTINF:-1,ITV 3
+http://62.210.141.126:8080/itv3/mpegts
+#EXTINF:-1,ITV 4
+http://62.210.141.126:8080/itv4/mpegts
+#EXTINF:-1,ITV Be
+http://62.210.141.126:8080/itvbe/mpegts
+#EXTINF:-1,ITV Encore
+http://62.210.141.126:8080/itvencore/mpegts
+#EXTINF:-1,Lifetime
+http://62.210.141.126:8080/lifetime/mpegts
+#EXTINF:-1,More 4
+http://62.210.141.126:8080/more4/mpegts
+#EXTINF:-1,Movies 24
+http://62.210.141.126:8080/movies24/mpegts
+#EXTINF:-1,MTV Classic
+http://62.210.141.126:8080/mtvclassic/mpegts
+#EXTINF:-1,MTV Dance
+http://62.210.141.126:8080/mtvdance/mpegts
+#EXTINF:-1,MTV Hits
+http://62.210.141.126:8080/mtvhits/mpegts
+#EXTINF:-1,MTV Music
+http://62.210.141.126:8080/mtvmusic/mpegts
+#EXTINF:-1,MTV Rocks
+http://62.210.141.126:8080/mtvrocks/mpegts
+#EXTINF:-1,MUTV
+http://62.210.141.126:8080/mutv/mpegts
+#EXTINF:-1,Nickelodeon
+http://62.210.141.126:8080/nickelodeon/mpegts
+#EXTINF:-1,Nick Jnr
+http://62.210.141.126:8080/nickjr/mpegts
+#EXTINF:-1,Nicktoons
+http://62.210.141.126:8080/nicktoons/mpegts
+#EXTINF:-1,Quest
+http://62.210.141.126:8080/quest/mpegts
+#EXTINF:-1,Racing UK
+http://62.210.141.126:8080/racinguk/mpegts
+#EXTINF:-1,Really
+http://62.210.141.126:8080/really/mpegts
+#EXTINF:-1,Sky 1
+http://62.210.141.126:8080/sky1/mpegts
+#EXTINF:-1,Sky 2
+http://62.210.141.126:8080/sky2/mpegts
+#EXTINF:-1,Sky Arts
+http://62.210.141.126:8080/skyarts/mpegts
+#EXTINF:-1,Sky Atlantic
+http://62.210.141.126:8080/skyatlantic/mpegts
+#EXTINF:-1,Sky Living
+http://62.210.141.126:8080/skyliving/mpegts
+#EXTINF:-1,Sky News
+http://62.210.141.126:8080/skynews/mpegts
+#EXTINF:-1,Sony Channel
+http://62.210.141.126:8080/sonychannel/mpegts
+#EXTINF:-1,Spike
+http://62.210.141.126:8080/spike/mpegts
+#EXTINF:-1,STV North
+http://62.210.141.126:8080/stvnorth/mpegts
+#EXTINF:-1,SyFy
+http://62.210.141.126:8080/syfy/mpegts
+#EXTINF:-1,TCM
+http://62.210.141.126:8080/tcm/mpegts
+#EXTINF:-1,TG4
+http://62.210.141.126:8080/tg4/mpegts
+#EXTINF:-1,TLC
+http://62.210.141.126:8080/tlc/mpegts
+#EXTINF:-1,Travel Channel
+http://62.210.141.126:8080/travelchannel/mpegts
+#EXTINF:-1,True Drama
+http://62.210.141.126:8080/truedrama/mpegts
+#EXTINF:-1,True Entertainment
+http://62.210.141.126:8080/trueentertainment/mpegts
+#EXTINF:-1,TrueMovies 1
+http://62.210.141.126:8080/truemovies1/mpegts
+#EXTINF:-1,TrueMovies 2
+http://62.210.141.126:8080/truemovies2/mpegts
+#EXTINF:-1,TV3
+http://62.210.141.126:8080/tv3/mpegts
+#EXTINF:-1,VH1
+http://62.210.141.126:8080/vh1/mpegts
+#EXTINF:-1,VIVA
+http://62.210.141.126:8080/viva/mpegts
+#EXTINF:-1,Yesterday
+http://62.210.141.126:8080/yesterday/mpegts
