@@ -1,97 +1,162 @@
 #EXTM3U
-#EXTINF:-1, -Man Cave Streams
-plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://mancavekodi.com
-#EXTINF:-1, -Donate to ==> paypal.me/optimumbliss
-plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://mancavekodi.com
 
-
+#EXTINF:-1, Man Cave Streams
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://mancavekodi.com
 
 #EXTINF:-1,=== >> USA << ===
-plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 
 #EXTINF:-1,USA | BLOOMBERG
-plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 #EXTINF:-1,USA | C-SPAN 1 HD
-plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 #EXTINF:-1,USA | C-SPAN 2 HD
-plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 #EXTINF:-1,USA | C-SPAN 3 HD
-plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 #EXTINF:-1,USA | CBS NEWS HD
-plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: WWE Network
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: ESPN
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: ESPN 2 HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: ESPN 3 TRE
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: FOX SPORTS
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: Tsn-Sport HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: Tsn-Sport 2 HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: Tsn-Sport 3 HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: Tsn-Sport 4 HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: Tsn-Sport 5 HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: AFN Sports
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: HBO HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: NAT GEO HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,USA: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,A&E USA HD
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,ESPN US
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,ESPN 2 US HD
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,NFL NETWORK
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,MLB NETWORK
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,CBS Sports Network
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,NHL NETWORK HD
-plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/rober/rober/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
+
+
 
 #EXTINF:-1,HALLMARK CHANNEL
+
 http://tv.bmx-tv.top:1935/live/18.smil/playlist.m3u8
