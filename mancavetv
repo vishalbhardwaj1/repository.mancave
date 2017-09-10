@@ -48,10 +48,7 @@ plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV24
 plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
 
 #EXTINF:-1,USA: Tsn-Sport 2 HD
-
 plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
-
-
 
 #EXTINF:-1,USA: Tsn-Sport 3 HD
 plugin://plugin.video.f4mTester/?url=http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=ManCave
@@ -164,44 +161,44 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA",Nickeloden Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6957.jpeg" group-title="USA",CBS News
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="http://channelpear.com/images/media/6957.jpeg" group-title="USA",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",MSNBC
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="USA",NBC News Live
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Live" tvg-logo="https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="USA",NBC News Live
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg" group-title="USA",Fox News Channel
+#EXTINF:-1 tvg-id="" tvg-name="Fox News Channel" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg" group-title="USA",Fox News Channel
 https://freeeucache3.streamlive.to/live/ohn58e97er36vjr/index.m3u8?st=7PIqLbTEGt81aZsCST9yLA&expires=1505448996
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV*
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV*
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
+#EXTINF:-1 tvg-id="" tvg-name="VoA" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3251.jpg" group-title="USA",C-SPAN
+#EXTINF:-1 tvg-id="" tvg-name="C-SPAN" tvg-logo="http://channelpear.com/images/media/3251.jpg" group-title="USA",C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3250.gif" group-title="USA",C-SPAN 2
+#EXTINF:-1 tvg-id="" tvg-name="C-SPAN 2" tvg-logo="http://channelpear.com/images/media/3250.gif" group-title="USA",C-SPAN 2
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
+#EXTINF:-1 tvg-id="" tvg-name="C-SPAN 3" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
+#EXTINF:-1 tvg-id="" tvg-name="Free Speech TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" group-title="USA",The Blaze
+#EXTINF:-1 tvg-id="" tvg-name="The Blaze" tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" group-title="USA",The Blaze
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" group-title="USA",InfoWars
+#EXTINF:-1 tvg-id="" tvg-name="InfoWars" tvg-logo="https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg" group-title="USA",InfoWars
 http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
