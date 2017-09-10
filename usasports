@@ -27,7 +27,7 @@ http://ipsatpro.com:8000/live/ramalho/ramalho/1498.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9095.png" group-title="USA",NFL Now
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
  
-#EXTINF:-1,US: Sports NFL Now HD
+#EXTINF:-1,NFL Now HD
 http://ipsatpro.com:8000/live/ramalho/ramalho/1434.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
