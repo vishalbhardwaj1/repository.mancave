@@ -6,7 +6,7 @@
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://tvkings.mancavekodi.com:83/get.php?username=joemay&amp;assword=mancave&amp;ype=m3u&amp;utput=ts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=wolf&amp;password=wolf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
@@ -69,17 +69,4 @@
    <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>number 08</cname>
-	<item>
-	<title>Man Cave #8</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=wolf&amp;password=wolf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-
-
 </streamingInfos>
