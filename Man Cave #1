@@ -1,37 +1,85 @@
-
+<streamingInfos>
 <streaminginfo>
-	<cname>Testing</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>Man Cave List 2</title>
+	<title>Man Cave #1</title>
 <link>ignore</link>
-   <externallink>http://no1dadicated.tk:8000/get.php?username=cuda&amp;password=cuda&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Testing</cname>
-	<item>
-	<title>Man Cave List 3</title>
-<link>ignore</link>
-   <externallink>http://144.217.76.96:8003/get.php?username=armindo&amp;password=armindo&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Testing</cname>
-	<item>
-	<title>Man Cave List 4</title>
-<link>ignore</link>
-   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
-	<cname>Testing</cname>
+	<cname>number 02</cname>
 	<item>
-	<title>Man Cave List 5</title>
+	<title>Man Cave #2</title>
 <link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://www.iptvurllist.com/upload/file/2017-09-13IPTV-USA-America-M3u-Server-Update-13-09-2017.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>number 03</cname>
+	<item>
+	<title>Man Cave #3</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://drop1.ipfox.co:8080/get.php?username=winsor_WCC4kU&amp;password=i7IMsvji&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 04</cname>
+	<item>
+	<title>Man Cave #4</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://thepk.co:2095/get.php?username=tyler&amp;password=tyler2017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 05</cname>
+	<item>
+	<title>Man Cave #5</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://no1dadicated.tk:8000/get.php?username=cuda&amp;password=cuda&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 06</cname>
+	<item>
+	<title>Man Cave #6</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://144.217.76.96:8003/get.php?username=armindo&amp;password=armindo&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 07</cname>
+	<item>
+	<title>Man Cave #7</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
    <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>number 08</cname>
+	<item>
+	<title>Man Cave #8</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=wolf&amp;password=wolf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+
 
 </streamingInfos>
