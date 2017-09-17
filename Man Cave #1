@@ -26,7 +26,7 @@
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://internext.zapto.org:8000/get.php?username=OFVAn9A7XI&password=WHgCo5dp0d&type=m3u&output=ts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://internext.zapto.org:8000/get.php?username=OFVAn9A7XI&amp;password=WHgCo5dp0d&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
