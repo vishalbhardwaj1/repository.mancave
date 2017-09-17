@@ -16,7 +16,7 @@
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://ace-tv.xyz:25461/get.php?username=gqmanvan@gmail.com&amp;password=9Y36ncv4Tf&amp;type=m3u&amp;output=mpegts$$</externallink>
+   <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
@@ -26,27 +26,7 @@
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://internext.zapto.org:8000/get.php?username=OFVAn9A7XI&amp;password=WHgCo5dp0d&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 04</cname>
-	<item>
-	<title>Man Cave #4</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
    <externallink>http://thepk.co:2095/get.php?username=tyler&amp;password=tyler2017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 05</cname>
-	<item>
-	<title>Man Cave #5</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
