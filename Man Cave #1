@@ -6,7 +6,7 @@
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=wolf&amp;password=wolf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://www.tbs-tv.com:25461/get.php?username=dealsat&amp;password=deal&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
@@ -27,6 +27,28 @@
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
    <externallink>http://thepk.co:2095/get.php?username=tyler&amp;password=tyler2017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 04</cname>
+	<item>
+	<title>Man Cave #4</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://thepk.co:2095/get.php?username=bigal1&amp;password=bigal1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 05</cname>
+	<item>
+	<title>Man Cave #5</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://thepk.co:2095/get.php?username=bigal1&amp;password=bigal1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
 	</item>
 </streaminginfo>
 
