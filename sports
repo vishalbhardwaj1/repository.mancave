@@ -118,3 +118,28 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/4201.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4199.ts
 #EXTINF:-1,UK: Sky Sports The Open HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4200.ts
+#EXTINF:-1,USA Sports
+http://mancavekodi.com
+#EXTINF:-1,ESPN
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21914.ts
+#EXTINF:-1,ESPN 2
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21915.ts
+#EXTINF:-1,ESPN NEWS HD USA --
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21918.ts
+#EXTINF:-1,BIG TEN NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21941.ts
+#EXTINF:-1,FIGHT NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21925.ts
+#EXTINF:-1,FOX SPORTS 1
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21957.ts
+#EXTINF:-1,FOX SPORTS 2
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21954.ts
+#EXTINF:-1,GOLF CHANNEL HD
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21931.ts
+#EXTINF:-1,NFL NETWORK 1080I
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21755.ts
+#EXTINF:-1,NFL Network HD
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21754.ts
+#EXTINF:-1,NFL NOW HD
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21753.ts
+
