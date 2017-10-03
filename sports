@@ -136,12 +136,6 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21957.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21954.ts
 #EXTINF:-1,GOLF CHANNEL HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21931.ts
-#EXTINF:-1,NFL NETWORK
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21755.ts
-#EXTINF:-1,NFL Network
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21754.ts
-#EXTINF:-1,NFL NOW HD
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21753.ts
 #EXTINF:-1,PAC 12 ARIZONA HD
 http://gehosting.xyz:25461/live/RESHAREUKONLY/123/300.ts
 #EXTINF:-1,PAC 12 BAY AREA HD
@@ -156,7 +150,13 @@ http://gehosting.xyz:25461/live/RESHAREUKONLY/123/296.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21984.ts
 #EXTINF:-1,PAC 12 WASHINGTON HD
 http://gehosting.xyz:25461/live/RESHAREUKONLY/123/294.ts
-#EXTINF:-1,NFL REDZONE LINK 2
+#EXTINF:-1,NFL NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21755.ts
+#EXTINF:-1,NFL Network
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21754.ts
+#EXTINF:-1,NFL NOW HD
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21753.ts
+#EXTINF:-1,NFL REDZONE 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67796.ts
 #EXTINF:-1,NFL SUNDAY TICKET 1
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67795.ts
