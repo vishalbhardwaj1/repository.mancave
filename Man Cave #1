@@ -2,47 +2,47 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>Man Cave #1</title>
+	<title>VOD</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://163.172.217.107:1944/get.php?username=WWW.CAFE-TV.CO.UK-22-9&amp;password=UjQ517RQHC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>https://goo.gl/WMHBxN$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Man Cave #2</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=ast&amp;password=ast&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo> 
-<streaminginfo>
-	<cname>number 03</cname>
-	<item>
-	<title>Man Cave #3</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=beda&amp;password=beda&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 04</cname>
-	<item>
-	<title>Man Cave #4</title>
+	<title>LOCAL NEWS</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
    <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>number 03</cname>
+	<item>
+	<title>World TV</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://bit.ly/2xRQd5O$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 04</cname>
+	<item>
+	<title>VOD and World TV</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>http://look02.vipid.org:8000/get.php?username=smartsat4.144&amp;password=NetJWEBm&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>number 05</cname>
 	<item>
-	<title>Man Cave #5</title>
+	<title>Offline</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
