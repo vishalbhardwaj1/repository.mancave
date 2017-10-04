@@ -46,7 +46,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21174.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21173.ts
 #EXTINF:-1,SKY SPORT MAIN EVENT HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21170.ts
-#EXTINF:-1,SKY SPORTS  F1 1080P
+#EXTINF:-1,SKY SPORTS F1
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21171.ts
 #EXTINF:-1,SKY SPORTS ACTION
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21168.ts
@@ -126,6 +126,8 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21914.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21915.ts
 #EXTINF:-1,ESPN NEWS HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21918.ts
+#EXTINF:-1,ESPN U HD 
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67043.ts
 #EXTINF:-1,BIG TEN NETWORK
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21941.ts
 #EXTINF:-1,FIGHT NETWORK
