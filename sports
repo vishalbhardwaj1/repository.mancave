@@ -38,6 +38,18 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21150.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21149.ts
 #EXTINF:-1,LFC TV
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21176.ts
+#EXTINF:-1,MOTO GP 1
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67587.ts
+#EXTINF:-1,MOTO GP 2
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67589.ts
+#EXTINF:-1,MOTOGP LIVE 1
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67164.ts
+#EXTINF:-1,MOTOGP LIVE 2
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67168.ts
+#EXTINF:-1,MOTOGP LIVE 3
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67169.ts
+#EXTINF:-1,MOTORS TV
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67165.ts
 #EXTINF:-1,PREMIER SPORTS
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21175.ts
 #EXTINF:-1,RACING UK
