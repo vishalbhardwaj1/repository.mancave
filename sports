@@ -150,6 +150,18 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21957.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21954.ts
 #EXTINF:-1,GOLF CHANNEL HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21931.ts
+#EXTINF:-1,PAC 12 ARIZONA
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67502.ts
+#EXTINF:-1,PAC 12 BAY AREA
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67501.ts
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67499.ts
+#EXTINF:-1,PAC 12 NATIONAL
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67498.ts
+#EXTINF:-1,PAC 12 OREGON
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67497.ts
+#EXTINF:-1,PAC 12 WASHINGTON
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67496.ts
 #EXTINF:-1,WWE
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67049.ts
 #EXTINF:-1,WWE NETWORK
