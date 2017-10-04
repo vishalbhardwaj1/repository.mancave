@@ -150,6 +150,10 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21957.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21954.ts
 #EXTINF:-1,GOLF CHANNEL HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21931.ts
+#EXTINF:-1,WWE
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67049.ts
+#EXTINF:-1,WWE NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave/67400.ts
 #EXTINF:-1,MLB Network 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21723.ts
 #EXTINF:-1,NHL Network
