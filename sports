@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,UK Sports
+#EXTINF:-1,[COLOR red]UK Sports[/COLOR]
 http://mancavekodi.com
 #EXTINF:-1,AT THE RACES
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21142.ts
@@ -118,13 +118,13 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/4201.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4199.ts
 #EXTINF:-1,UK: Sky Sports The Open HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4200.ts
-#EXTINF:-1,USA Sports
+#EXTINF:-1,[COLOR red]USA Sports[/COLOR]
 http://mancavekodi.com
 #EXTINF:-1,ESPN
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21914.ts
 #EXTINF:-1,ESPN 2
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21915.ts
-#EXTINF:-1,ESPN NEWS HD USA --
+#EXTINF:-1,ESPN NEWS HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21918.ts
 #EXTINF:-1,BIG TEN NETWORK
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21941.ts
@@ -136,20 +136,12 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21957.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21954.ts
 #EXTINF:-1,GOLF CHANNEL HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21931.ts
-#EXTINF:-1,PAC 12 ARIZONA HD
-http://gehosting.xyz:25461/live/RESHAREUKONLY/123/300.ts
-#EXTINF:-1,PAC 12 BAY AREA HD
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21924.ts
-#EXTINF:-1,PAC 12 LA HD
-http://gehosting.xyz:25461/live/RESHAREUKONLY/123/298.ts
-#EXTINF:-1,PAC 12 MOUNTAIN HD
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21967.ts
-#EXTINF:-1,PAC 12 NATIONAL HD
-http://gehosting.xyz:25461/live/RESHAREUKONLY/123/296.ts
-#EXTINF:-1,PAC 12 OREGON HD
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21984.ts
-#EXTINF:-1,PAC 12 WASHINGTON HD
-http://gehosting.xyz:25461/live/RESHAREUKONLY/123/294.ts
+#EXTINF:-1,MLB Network 
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21723.ts
+#EXTINF:-1,USA: NHL Network
+http://tvkings.vodiptv.org:83/live/mancave/mancave/66390.ts
+#EXTINF:-1,NBA TV HD
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21725.ts
 #EXTINF:-1,NFL NETWORK
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21755.ts
 #EXTINF:-1,NFL Network
@@ -188,4 +180,5 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/67791.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67790.ts
 #EXTINF:-1,NFL SUNDAY TICKET 15
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67789.ts
+
 
