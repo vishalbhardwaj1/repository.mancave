@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR red]UK Sports[/COLOR]
+#EXTINF:-1,[COLOR red]~~~~~UK Sports~~~~~[/COLOR]
 http://mancavekodi.com
 #EXTINF:-1,AT THE RACES
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21142.ts
@@ -118,7 +118,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/4201.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4199.ts
 #EXTINF:-1,UK: Sky Sports The Open HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4200.ts
-#EXTINF:-1,[COLOR red]USA Sports[/COLOR]
+#EXTINF:-1,[COLOR red]~~~~~USA Sports~~~~[/COLOR]
 http://mancavekodi.com
 #EXTINF:-1,ESPN
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21914.ts
