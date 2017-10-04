@@ -30,6 +30,16 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>number 08</cname>
+	<item>
+	<title>2014 and older Movies</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/2014-older$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>number 02</cname>
 	<item>
 	<title>LOCAL NEWS</title>
