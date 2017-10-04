@@ -42,7 +42,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21176.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21175.ts
 #EXTINF:-1,RACING UK
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21174.ts
-#EXTINF:-1,RANGERS TV (LIVE MATCHES ONLY)
+#EXTINF:-1,RANGERS TV
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21173.ts
 #EXTINF:-1,SKY SPORT MAIN EVENT HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21170.ts
@@ -108,7 +108,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/4177.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4180.ts
 #EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4176.ts
-#EXTINF:-1,UK: SkySpBoxOff (PPV Events Only)
+#EXTINF:-1,UK: SkySpBoxOff PPV Only
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4175.ts
 #EXTINF:-1,UK: Sky Sport Arena HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/4197.ts
@@ -126,7 +126,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21914.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21915.ts
 #EXTINF:-1,ESPN NEWS HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21918.ts
-#EXTINF:-1,ESPN U HD 
+#EXTINF:-1,MSG
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67043.ts
 #EXTINF:-1,BIG TEN NETWORK
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21941.ts
@@ -140,7 +140,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21954.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21931.ts
 #EXTINF:-1,MLB Network 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21723.ts
-#EXTINF:-1,USA: NHL Network
+#EXTINF:-1,NHL Network
 http://tvkings.vodiptv.org:83/live/mancave/mancave/66390.ts
 #EXTINF:-1,NBA TV HD
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21725.ts
