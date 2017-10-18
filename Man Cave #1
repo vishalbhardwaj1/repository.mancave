@@ -62,11 +62,11 @@
 <streaminginfo>
 	<cname>number 04</cname>
 	<item>
-	<title>VOD and World TV</title>
+	<title>USA</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
-   <externallink>http://look02.vipid.org:8000/get.php?username=smartsat4.144&amp;password=NetJWEBm&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usa$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
