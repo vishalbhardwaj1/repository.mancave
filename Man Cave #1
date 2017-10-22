@@ -70,6 +70,16 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>number 10</cname>
+	<item>
+	<title>[COLOR blue]PPV Live Events[/COLOR]</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/ppv$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>number 04</cname>
 	<item>
 	<title>UK SPORTS</title>
