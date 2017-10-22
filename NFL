@@ -5,6 +5,8 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/9.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/99.ts
 #EXTINF:-1,tvkingsiptv@gmail.com
 http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
+#EXTINF:-1,NFL Network
+http://tvkings.vodiptv.org:83/live/mancave/mancave/94803.ts
 #EXTINF:-1,NFL SUNDAY TICKET 1
 http://tvkings.vodiptv.org:83/live/mancave/mancave/94779.ts
 #EXTINF:-1,NFL SUNDAY TICKET 2
