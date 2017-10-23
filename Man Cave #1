@@ -48,6 +48,16 @@
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
    <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>USA Entertainment</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usaentertainment$$TSDOWNLOADER$$</externallink>
+	</item>
 </streaminginfo> 
 <streaminginfo>
 	<cname>number 03</cname>
