@@ -15,7 +15,7 @@
 	<title>[COLOR blue]USA Live TV[/COLOR]</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg</thumbnail>
+<thumbnail>https://cdn2.iconfinder.com/data/icons/world-flags-1-1/100/USA_-512.png</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/USA$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -25,7 +25,7 @@
 	<title>[COLOR blue]UK Live TV[/COLOR]</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+<thumbnail>https://cdn4.iconfinder.com/data/icons/flat-circle-flag/182/united_kingdom_UK_England_circle_flag-512.png</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/UK$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
