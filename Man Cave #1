@@ -2,11 +2,11 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>2017 Movies</title>
+	<title>Movies</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://wizard.mancavekodi.com/images/2017movies.png</thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/2017Movies$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/movies$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
