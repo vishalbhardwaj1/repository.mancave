@@ -1,6 +1,6 @@
 <streamingInfos>
 <streaminginfo>
-	    <cname>number 02</cname>
+	    <cname>number 01</cname>
 	    <item>
 	    <title>USA LOCAL NEWS STREAMS</title>
 <link>ignore</link>
@@ -18,9 +18,19 @@
 <thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usaentertainment$$TSDOWNLOADER$$</externallink>
 	    </item>
-</streaminginfo> 
+</streaminginfo>
 <streaminginfo>
 	    <cname>number 03</cname>
+	    <item>
+	    <title>USA Kids</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usakids$$TSDOWNLOADER$$</externallink>
+	    </item>
+</streaminginfo>
+<streaminginfo>
+	    <cname>number 04</cname>
 	    <item>
 	    <title>NFL</title>
 <link>ignore</link>
@@ -30,7 +40,7 @@
 	    </item>
 </streaminginfo>
 <streaminginfo>
-	    <cname>number 09</cname>
+	    <cname>number 05</cname>
 	    <item>
 	    <title>NBA</title>
 <link>ignore</link>
