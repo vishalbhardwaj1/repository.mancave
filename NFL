@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1,Looking for Reliable 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/9.ts
@@ -18,7 +19,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave22/94777.ts
 #EXTINF:-1,NFL SUNDAY TICKET 4
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94776.ts
 #EXTINF:-1,Steelers vs Lions Preview
-https://www.youtube.com/watch?v=bZ7yprrwx3E
+https://www.youtube.com/watch?v=bZ7yprrwx3E./extract_auto_play_youtube.sh <link_of_the_first_video> <name_of_the_playlist> <number_of_videos_to_save_in_the_playlist>
 #EXTINF:-1,TV Kings has all NFL Games
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/779.ts
 
