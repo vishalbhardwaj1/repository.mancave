@@ -90,8 +90,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/21082.ts
 #EXTINF:-1,TLC 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21072.ts
 #EXTINF:-1,Spike 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21111.ts
-#EXTINF:-1,True Movies 
+http://tvkings.vodiptv.org:83/live/mancave/mancave/21111.ts#EXTINF:-1,True Movies 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21068.ts
 #EXTINF:-1,Syfy 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21064.ts
@@ -111,32 +110,6 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/67153.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21009.ts
 #EXTINF:-1,BET 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/66993.ts
-#EXTINF:-1,Disney XD 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21030.ts
-#EXTINF:-1,Disney Channel 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21032.ts
-#EXTINF:-1,Nick Jr Too 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21040.ts
-#EXTINF:-1,Nick Jr 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21036.ts
-#EXTINF:-1,Disney Junior 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21033.ts
-#EXTINF:-1,Nicktoons 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21038.ts
-#EXTINF:-1,Cartoon Network 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21039.ts
-#EXTINF:-1,Nickelodeon 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21043.ts
-#EXTINF:-1,Pop 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21031.ts
-#EXTINF:-1,CBBC 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21034.ts
-#EXTINF:-1,Boomerang 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21041.ts
-#EXTINF:-1,Cartoonito 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21042.ts
-#EXTINF:-1,Baby TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/21037.ts
 #EXTINF:-1,Sky Hits 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/21022.ts
 #EXTINF:-1,Sky Action 
