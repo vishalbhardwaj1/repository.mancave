@@ -89,5 +89,15 @@
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/adult$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+<streaminginfo>
+	<cname>number 05</cname>
+	<item>
+	<title>TEST</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/test</externallink>
+	</item>
+</streaminginfo>
 
 </streamingInfos>
