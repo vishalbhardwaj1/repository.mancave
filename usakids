@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BOOMERANG 
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94934.ts
+#EXTINF:-1,CARTOON NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94830.ts
 #EXTINF:-1,DISNEY JR
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94846.ts
 #EXTINF:-1,DISNEY CHANNEL
