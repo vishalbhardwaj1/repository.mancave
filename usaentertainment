@@ -14,7 +14,44 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave22/94935.ts
 #EXTINF:-1,CARTOON NETWORK
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94830.ts
 #EXTINF:-1,CBS 
+http://tvkings.vodiptv.org:83/live/manc#EXTM3U
+#EXTINF:-1,A&E 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94918.ts
+#EXTINF:-1,ABC 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94930.ts
+#EXTINF:-1,Amc 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94823.ts
+#EXTINF:-1,ANIMAL PLANET 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94932.ts
+#EXTINF:-1,BET 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94933.ts
+#EXTINF:-1,BRAVO 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94935.ts
+#EXTINF:-1,CBS 
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94936.ts
+#EXTINF:-1,CNBC 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94940.ts
+#EXTINF:-1,CNN 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94941.ts
+#EXTINF:-1,Comedy
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94839.ts
+#EXTINF:-1,CW 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94942.ts
+#EXTINF:-1,DISCOVERY CHANNEL 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94943.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94844.ts
+#EXTINF:-1,DIY NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94944.ts
+#EXTINF:-1,E! 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94945.ts
+#EXTINF:-1,FOOD NETWORK
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94946.ts
+#EXTINF:-1,FOX NEWS
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94948.ts
+#EXTINF:-1,FOX 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94947.ts
+#EXTINF:-1,FX ave/mancave22/94936.ts
 #EXTINF:-1,CNBC 
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94940.ts
 #EXTINF:-1,CNN 
