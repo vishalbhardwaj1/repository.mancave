@@ -7,13 +7,13 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/99.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
 #EXTINF:-1,NBA TV
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94808.ts
-#EXTINF:-1,NBA 01
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94740.ts
-#EXTINF:-1,NBA 02
+#EXTINF:-1,Spurs vs Pacers
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94739.ts
-#EXTINF:-1,NBA 03
+#EXTINF:-1,Nuggets vs Nets
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94738.ts
-#EXTINF:-1,NBA 04
+#EXTINF:-1,Magic vs Hornets
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/94737.ts
+#EXTINF:-1,Wizards vs Kings
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/94736.ts
 #EXTINF:-1,TV Kings has all NBA Games
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/779.ts
