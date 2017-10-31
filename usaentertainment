@@ -1,58 +1,113 @@
-
 #EXTM3U
+#EXTINF:-1,A&E
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142604.ts
 #EXTINF:-1,A&E
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142604.ts
 #EXTINF:-1,ABC
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142605.ts
+#EXTINF:-1,ABC
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142605.ts
+#EXTINF:-1,AMC
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142610.ts
 #EXTINF:-1,AMC
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142610.ts
 #EXTINF:-1,BET
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142615.ts
+#EXTINF:-1,BET
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142615.ts
+#EXTINF:-1,Boomerang
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142618.ts
 #EXTINF:-1,Boomerang
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142618.ts
 #EXTINF:-1,Bounce TV
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142619.ts
+#EXTINF:-1,Bounce TV
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142619.ts
 #EXTINF:-1,Bravo
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142620.ts
+#EXTINF:-1,Bravo
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142620.ts
 #EXTINF:-1,CBS
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142627.ts
+#EXTINF:-1,CBS
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142627.ts
 #EXTINF:-1,CNBC
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142634.ts
+#EXTINF:-1,CNBC
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142634.ts
 #EXTINF:-1,CNN
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142635.ts
+#EXTINF:-1,CNN
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142635.ts
 #EXTINF:-1,Comedy Central
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142636.ts
+#EXTINF:-1,Comedy Central
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142636.ts
 #EXTINF:-1,Discovery Channel
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142642.ts
+#EXTINF:-1,Discovery Channel
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142642.ts
 #EXTINF:-1,Food Network
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142655.ts
+#EXTINF:-1,Food Network
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142655.ts
 #EXTINF:-1,FOX
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142656.ts
+#EXTINF:-1,FOX
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142656.ts
 #EXTINF:-1,Fox News
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142661.ts
+#EXTINF:-1,Fox News
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142661.ts
 #EXTINF:-1,FX
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142585.ts
+#EXTINF:-1,FX
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142585.ts
 #EXTINF:-1,Lifetime
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142685.ts
+#EXTINF:-1,Lifetime
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142685.ts
 #EXTINF:-1,NBC
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142693.ts
+#EXTINF:-1,NBC
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142693.ts
 #EXTINF:-1,Spike
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142712.ts
+#EXTINF:-1,Spike
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142712.ts
 #EXTINF:-1,Syfy
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142717.ts
+#EXTINF:-1,Syfy
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142717.ts
 #EXTINF:-1,TBS
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142718.ts
+#EXTINF:-1,TBS
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142718.ts
 #EXTINF:-1,TCM
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142711.ts
+#EXTINF:-1,TCM
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142711.ts
 #EXTINF:-1,TLC
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142601.ts
+#EXTINF:-1,TLC
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142601.ts
 #EXTINF:-1,TNT
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142600.ts
+#EXTINF:-1,TNT
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142600.ts
 #EXTINF:-1,Travel Channel
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142599.ts
+#EXTINF:-1,Travel Channel
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142599.ts
 #EXTINF:-1,TRU TV
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142598.ts
+#EXTINF:-1,TRU TV
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142598.ts
 #EXTINF:-1,TV Land
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142597.ts
+#EXTINF:-1,TV Land
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142597.ts
 #EXTINF:-1,USA Network
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/142595.ts
+#EXTINF:-1,USA Network
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142595.ts
