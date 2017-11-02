@@ -1,17 +1,34 @@
 #EXTM3U
-#EXTINF:-1,BOOMERANG 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94934.ts
-#EXTINF:-1,CARTOON NETWORK
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94830.ts
-#EXTINF:-1,DISNEY JR
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94846.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94845.ts
-#EXTINF:-1,DISNEY XD
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/95062.ts
-#EXTINF:-1,NICK
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94879.ts
-#EXTINF:-1,NICK JR
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94968.ts
-#EXTINF:-1,QUBO
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94997.ts
+#EXTINF:-1,Boomerang
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142618.ts
+#EXTINF:-1,Boomerang
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142618.ts
+#EXTINF:-1,Cartoon Network
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142626.ts
+#EXTINF:-1,Cartoon Network
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142626.ts
+#EXTINF:-1,Disney Jr 
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142646.ts
+#EXTINF:-1,Disney Jr 
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142646.ts
+#EXTINF:-1,Disney XD
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142647.ts
+#EXTINF:-1,Disney XD
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142647.ts
+#EXTINF:-1,Nick Jr
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142694.ts
+#EXTINF:-1,Nick Jr
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142694.ts
+#EXTINF:-1,Nicktoons
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142695.ts
+#EXTINF:-1,Nicktoons
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142695.ts
+#EXTINF:-1,Nickelodeon
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142696.ts
+#EXTINF:-1,Nickelodeon
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142696.ts
+#EXTINF:-1,Qubo
+http://tvkings.vodiptv.org:83/live/mancave/mancave22/142703.ts
+#EXTINF:-1,Qubo
+http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142703.ts
+
