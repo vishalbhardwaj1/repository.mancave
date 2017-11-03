@@ -60,7 +60,17 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 7</cname>
+	<cname>number 07</cname>
+	<item>
+	<title>[COLOR blue]Live World Cams[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/livecams$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 08</cname>
 	<item>
 	<title>[COLOR blue]PPV Live Events[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -70,7 +80,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 08</cname>
+	<cname>number 09</cname>
 	<item>
 	<title>[COLOR blue]TV ESPAÑA Local[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -80,7 +90,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 09</cname>
+	<cname>number 10</cname>
 	<item>
 	<title>[COLOR blue]Huge IPTV Playlist[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -90,7 +100,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 10</cname>
+	<cname>number 11</cname>
 	<item>
 	<title>[COLOR pink]ADULT[/COLOR] [COLOR red]18+[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
