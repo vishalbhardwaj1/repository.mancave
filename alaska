@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIpbs.png" group-title="AK Alaska",KAKM 7.3 360 North - 8 DT - Anchorage - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0025
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="AK Alaska",UATV - 9CTV - Anchorage - AK Alaska
+rtmp://137.229.218.178/live/uaslive/uaslivestream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VInbc.png" group-title="AK Alaska",KTUU 2 News - 10 DT - Anchorage - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUS0027
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VInbc.png" group-title="AK Alaska",KTUU 2.1 NBC - 10 DT - Anchorage - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0028
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIabc.png" group-title="AK Alaska",KYUR 13.1 ABC - 12 DT - Anchorage - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0029
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="AK Alaska",ASD TV - 14CTV - Anchorage - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0030
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIcbs.png" group-title="AK Alaska",KTVA 11 News - 28 DT - Anchorage - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0031
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIcbs.png" group-title="AK Alaska",KXDF News 13 - 13 DC - Fairbanks - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0032
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VInbc.png" group-title="AK Alaska",KTVF Newscenter 11 - 26 DT - Fairbanks - AK Alaska
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0033
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VInbc.png" group-title="AL Alabama",WVTM 13 News - 13 DT - Birmingham - AL Alabama
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=HEUS0034
