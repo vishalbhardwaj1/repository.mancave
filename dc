@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIabc.png" group-title="DC Dis Columbia",WJLA 7 News - 7 DT - Washington - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=SBUS0001
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIabc.png" group-title="DC Dis Columbia",NC8  WJLA News 8 - 8CTV - Washington - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=SBUS0002
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIcbs.png" group-title="DC Dis Columbia",WUSA 9 News - 9 DT - Washington - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0003
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIfox.png" group-title="DC Dis Columbia",WTTG 5 News - 36 DT - Washington - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUS0004
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VInbc.png" group-title="DC Dis Columbia",WRC  News 4 - 48 DT - Washington - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0005
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIcw.png" group-title="DC Dis Columbia",WDCW DCW 50 - 50 DT - Washington - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUS0006
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",Red Bull TV - CTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0007
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",TWiT - ITV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0008
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",3ABN - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0009
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",3ABN Latino - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0010
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",C-SPAN - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0011
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",C-SPAN 2 - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0012
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",C-SPAN 3 - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0013
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",CCTV America - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUS0014
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",Charge! - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0015
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",Comet TV - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0016
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",NASA HD Media - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0017
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",NASA HD Public - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0018
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",NASA ISS Views - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0019
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",RT America - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0020
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",TBD - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0021
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",The Word Network - NTV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0022
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",Earth TV - Cam TV - Nationwide TV - DC Dis Columbia
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0023
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ES---USA.png" group-title="DC Dis Columbia",EarthCam TV - Cam TV - Nationwide TV - DC Dis Columbia
+rtmp://video1.earthcam.com:1935/earthcamtv/Stream1
