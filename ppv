@@ -7,8 +7,8 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/99.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
 #EXTINF:-1,WWE TLC PPV WWE Network 
 http://tvkings.vodiptv.org:83/live/mancave/mancave/67049.ts
-#EXTINF:-1,UFC (Live Events Only)
-http://tvkings.vodiptv.org:83/live/mancave/mancave/94810.ts
+#EXTINF:-1,UFC NETWORK
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 #EXTINF:-1,TV Kings has all PPV and Live Events
 http://tvkings.vodiptv.org:83/live/mancave/mancave/779.ts
 
