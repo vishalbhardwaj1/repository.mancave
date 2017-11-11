@@ -30,7 +30,7 @@ http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143072.ts
 #EXTINF:-1,FOX SPORTS 1
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1,FOX SPORTS 1
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143080.ts
+http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1,FOX SPORTS 2
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/143081.ts
 #EXTINF:-1,FOX SPORTS 2
