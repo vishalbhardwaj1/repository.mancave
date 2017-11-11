@@ -39,6 +39,18 @@ http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143081.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/143094.ts
 #EXTINF:-1,NBC GOLF
 http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143094.ts
+#EXTINF:-1,  Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,  Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,  Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,  Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,  Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,  Pac 12 Washington 
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1,RED BULL TV
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/143024.ts
 #EXTINF:-1,RED BULL TV
