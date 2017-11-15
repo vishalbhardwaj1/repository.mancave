@@ -1,113 +1,83 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142604.ts
-#EXTINF:-1,A&E
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142604.ts
-#EXTINF:-1,ABC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142605.ts
-#EXTINF:-1,ABC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142605.ts
-#EXTINF:-1,AMC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142610.ts
-#EXTINF:-1,AMC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142610.ts
-#EXTINF:-1,BET
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142615.ts
-#EXTINF:-1,BET
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142615.ts
-#EXTINF:-1,Boomerang
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142618.ts
-#EXTINF:-1,Boomerang
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142618.ts
-#EXTINF:-1,Bounce TV
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142619.ts
-#EXTINF:-1,Bounce TV
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142619.ts
-#EXTINF:-1,Bravo
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142620.ts
-#EXTINF:-1,Bravo
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142620.ts
-#EXTINF:-1,CBS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142627.ts
-#EXTINF:-1,CBS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142627.ts
-#EXTINF:-1,CNBC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142634.ts
-#EXTINF:-1,CNBC
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142634.ts
-#EXTINF:-1,CNN
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142635.ts
-#EXTINF:-1,CNN
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142635.ts
-#EXTINF:-1,Comedy Central
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142636.ts
-#EXTINF:-1,Comedy Central
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142636.ts
-#EXTINF:-1,Discovery Channel
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142642.ts
-#EXTINF:-1,Discovery Channel
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142642.ts
-#EXTINF:-1,Food Network
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142655.ts
-#EXTINF:-1,Food Network
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142655.ts
-#EXTINF:-1,FOX
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142656.ts
-#EXTINF:-1,FOX
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142656.ts
-#EXTINF:-1,Fox News
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142661.ts
-#EXTINF:-1,Fox News
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142661.ts
-#EXTINF:-1,FX
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142585.ts
-#EXTINF:-1,FX
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142585.ts
-#EXTINF:-1,Lifetime
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142685.ts
-#EXTINF:-1,Lifetime
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142685.ts
-#EXTINF:-1,NBC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142693.ts
-#EXTINF:-1,NBC
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142693.ts
-#EXTINF:-1,Spike
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142712.ts
-#EXTINF:-1,Spike
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142712.ts
-#EXTINF:-1,Syfy
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142717.ts
-#EXTINF:-1,Syfy
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142717.ts
-#EXTINF:-1,TBS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142718.ts
-#EXTINF:-1,TBS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142718.ts
-#EXTINF:-1,TCM
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142711.ts
-#EXTINF:-1,TCM
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142711.ts
-#EXTINF:-1,TLC
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142601.ts
-#EXTINF:-1,TLC
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142601.ts
-#EXTINF:-1,TNT
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142600.ts
-#EXTINF:-1,TNT
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142600.ts
-#EXTINF:-1,Travel Channel
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142599.ts
-#EXTINF:-1,Travel Channel
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142599.ts
-#EXTINF:-1,TRU TV
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142598.ts
-#EXTINF:-1,TRU TV
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142598.ts
-#EXTINF:-1,TV Land
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142597.ts
-#EXTINF:-1,TV Land
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142597.ts
-#EXTINF:-1,USA Network
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142595.ts
-#EXTINF:-1,USA Network
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142595.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="US Entertainment",USA | A&E
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1597.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="" group-title="US Entertainment",USA | ABC
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1596.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="US Entertainment",USA | ABC News
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1595.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="US Entertainment",USA | AMC
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="US Entertainment",USA | Animal Planet
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1582.ts
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="" group-title="US Entertainment",USA | BET
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bravo" tvg-logo="" group-title="US Entertainment",USA | Bravo
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1571.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="" group-title="US Entertainment",USA | CBS
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1569.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" group-title="US Entertainment",USA | CBSN
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1568.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMT" tvg-logo="" group-title="US Entertainment",USA | CMT
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1566.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="US Entertainment",USA | CNBC
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1565.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="US Entertainment",USA | CNN
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="US Entertainment",USA | Comedy Central
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1557.ts
+#EXTINF:-1 tvg-id="" tvg-name="CW" tvg-logo="" group-title="US Entertainment",USA | CW
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="US Entertainment",USA | Discovery Channel
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1549.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="US Entertainment",USA | E!
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="US Entertainment",USA | Food Network
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1521.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="US Entertainment",USA | FOX
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1536.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="US Entertainment",USA | FX
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1525.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="US Entertainment",USA | History Channel
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1497.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="US Entertainment",USA | H2
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="" group-title="US Entertainment",USA | Hallmark
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1499.ts
+#EXTINF:-1 tvg-id="" tvg-name="ION" tvg-logo="" group-title="US Entertainment",USA | ION
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1494.ts
+#EXTINF:-1 tvg-id="" tvg-name="ION Life" tvg-logo="" group-title="US Entertainment",USA | ION Life
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1493.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="US Entertainment",USA | Lifetime
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1488.ts
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="" group-title="US Entertainment",USA | MSNBC
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1484.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="US Entertainment",USA | MTV
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="US Entertainment",USA | Nat Geo
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1468.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="" group-title="US Entertainment",USA | NBC
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1475.ts
+#EXTINF:-1 tvg-id="" tvg-name="OWN" tvg-logo="" group-title="US Entertainment",USA | OWN
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1463.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="" group-title="US Entertainment",USA | PBS
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="" group-title="US Entertainment",USA | Spike
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1445.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="US Entertainment",USA | SyFy
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1436.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="US Entertainment",USA | TBS
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1434.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="US Entertainment",USA | TLC
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1432.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="US Entertainment",USA | TNT
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1431.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="US Entertainment",USA | Travel Channel
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1423.ts
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="US Entertainment",USA | TruTV
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1422.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Land" tvg-logo="" group-title="US Entertainment",USA | TV Land
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1429.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="" group-title="US Entertainment",USA | USA Network
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1420.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="US Entertainment",USA | VH1
+http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1419.ts
