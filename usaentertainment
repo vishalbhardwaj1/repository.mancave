@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.satellitetv-deal.com/images/logos/A%26E-logo.png" group-title="US Entertainment",USA | A&E
 http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1597.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="" group-title="US Entertainment",USA | ABC
+#EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="http://twocentstv.com/wp-content/uploads/2014/05/ABC.jpg" group-title="US Entertainment",USA | ABC
 http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1596.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="US Entertainment",USA | ABC News
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://is2.mzstatic.com/image/thumb/Purple69/v4/9a/fb/47/9afb4705-bcba-7eac-f9bb-f46fa9e377d3/source/512x512bb.jpg" group-title="US Entertainment",USA | ABC News
 http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1595.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="US Entertainment",USA | AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://www.pandorazwieback.com/wp-content/uploads/2016/10/amc_logo-300x300.png" group-title="US Entertainment",USA | AMC
 http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1584.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="US Entertainment",USA | Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://county10.typeshift.co/wp-content/uploads/sites/5/2015/02/Animal_Planet_2006.png" group-title="US Entertainment",USA | Animal Planet
 http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1582.ts
 #EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="" group-title="US Entertainment",USA | BET
 http://tvstreams.xyz:83/live/twistednutz/ztunspud44!/1578.ts
