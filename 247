@@ -1,37 +1,23 @@
 #EXTM3U
-#EXTINF:-1,AMERICAN HORROR STORY
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143255.ts
-#EXTINF:-1,AMERICAN HORROR STORY
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143255.ts
-#EXTINF:-1,BREAKING BAD
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143252.ts
-#EXTINF:-1,BREAKING BAD
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143252.ts
-#EXTINF:-1,GAME OF THRONES
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143250.ts
-#EXTINF:-1,GAME OF THRONES
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143250.ts
-#EXTINF:-1,IMPRATICAL JOKERS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143247.ts
-#EXTINF:-1,IMPRATICAL JOKERS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143247.ts
-#EXTINF:-1,ORANGE IS THE NEW BLACK
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143243.ts
-#EXTINF:-1,ORANGE IS THE NEW BLACK
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143243.ts
-#EXTINF:-1,SONS OF ANARCHY
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143235.ts
-#EXTINF:-1,SONS OF ANARCHY
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143235.ts
-#EXTINF:-1,THE BIG BANG THEORY
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143231.ts
-#EXTINF:-1,THE BIG BANG THEORY
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143231.ts
-#EXTINF:-1,THE SOPRANOS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143228.ts
-#EXTINF:-1,THE SOPRANOS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143228.ts
-#EXTINF:-1,THE WALKING DEAD
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143226.ts
-#EXTINF:-1,THE WALKING DEAD
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143226.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN HORROR STORY" tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/04/stream-american-horror-story.png" group-title="24/7 TV Shows",AMERICAN HORROR STORY
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING BAD" tvg-logo="https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/622/breaking_bad_css3_svg_raw.png" group-title="24/7 TV Shows",BREAKING BAD
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FAST N LOUD" tvg-logo="http://www.theglobaldispatch.com/wp-content/uploads/2015/08/Fast-N-Loud-banner.jpg" group-title="24/7 TV Shows",FAST N LOUD
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 GAME OF THRONES" tvg-logo="http://tvisual.org/wp-content/uploads/2011/10/sean-bean-game-of-thrones.jpg" group-title="24/7 TV Shows",GAME OF THRONES
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 IMPRATICAL JOKERS" tvg-logo="http://wac.450f.edgecastcdn.net/80450F/thefw.com/files/2013/01/impractical-jokers-13.jpg" group-title="24/7 TV Shows",IMPRATICAL JOKERS
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ORANGE IS THE NEW BLACK" tvg-logo="http://starcasm.net/wp-content/uploads/2016/06/Orange_Is_The_New_Black_cast.jpg" group-title="24/7 TV Shows",ORANGE IS THE NEW BLACK
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SEINFELD" tvg-logo="http://pmehlman.com/wp-content/uploads/2011/08/4small.jpg" group-title="24/7 TV Shows",SEINFELD
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SONS OF ANARCHY" tvg-logo="http://www.tshirtvortex.net/wp-content/uploads/Sons-of-Anarchy-Grim-Reaper-T-Shirt.jpg" group-title="24/7 TV Shows",SONS OF ANARCHY
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY" tvg-logo="http://www.readingtree.org/wp-content/uploads/2013/05/Big-Bang-Theory.jpg" group-title="24/7 TV Shows",THE BIG BANG THEORY
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SOPRANOS" tvg-logo="http://i.pinimg.com/736x/01/93/50/01935002334cbc466fee26e3c9282860.jpg" group-title="24/7 TV Shows",THE SOPRANOS
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="http://cdn1.sciencefiction.com/wp-content/uploads/2014/12/walking-dead-featured.jpg" group-title="24/7 TV Shows",THE WALKING DEAD
+http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143226.m3u8
