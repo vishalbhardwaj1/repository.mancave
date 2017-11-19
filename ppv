@@ -9,8 +9,8 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
 http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/142588.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Box Office" tvg-logo="" group-title="PPV / LIVE EVENTS",Sky Sports Box Office
 http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143547.m3u8
-#EXTINF:-1,UFC NETWORK
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1,UFC 121
+http://Vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143592.m3u8
 #EXTINF:-1,UFC 204
 http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4648.mp4
 #EXTINF:-1,UFC 205
