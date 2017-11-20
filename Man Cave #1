@@ -20,6 +20,16 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
+	<cname>number 10</cname>
+	<item>
+	<title>[COLOR blue]TV Shows[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://proprofs-cdn.s3.amazonaws.com/images/QM/user_images/1749547/10771829647.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/tvshows$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>number 04</cname>
 	<item>
 	<title>[COLOR blue]USA Live TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
