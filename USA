@@ -15,7 +15,7 @@
 	    <title>USA Entertainment</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+<thumbnail>http://cdn9.staztic.com/app/a/2931/2931011/usa-tv-live-america-tv-us-tv-1-0-s-307x512.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usaentertainment$$TSDOWNLOADER$$</externallink>
 	    </item>
 </streaminginfo>
@@ -25,7 +25,7 @@
 	    <title>USA Sports</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/512233486128652288/2RJZBIid.png</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/ussports$$TSDOWNLOADER$$</externallink>
 	    </item>
 </streaminginfo>
@@ -35,7 +35,7 @@
 	    <title>USA Kids</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61VCZPAVIBL._SL500_AA280_.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usakids$$TSDOWNLOADER$$</externallink>
 	    </item>
 </streaminginfo>
@@ -55,7 +55,7 @@
 	    <title>NBA</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-LMaU0s0kpWQ/UqoDSIKph4I/AAAAAAAAAAw/_M-720UZPBM/s1600/nbajordan1.png</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/NBA$$TSDOWNLOADER$$</externallink>
 	    </item>
 </streaminginfo>
@@ -65,8 +65,18 @@
 	    <title>MLB</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/496162359145431040/M1nhXbhf.jpeg</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/MLB$$TSDOWNLOADER$$</externallink>
+	    </item>
+</streaminginfo>
+<streaminginfo>
+	    <cname>number 08</cname>
+	    <item>
+	    <title>USA Music</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>https://www.billboard.com/files/styles/article_main_image/public/media/usa-playlist-billboard-1548.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/usmusic$$TSDOWNLOADER$$</externallink>
 	    </item>
 </streaminginfo>
 </streaminginfo>
