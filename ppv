@@ -11,34 +11,8 @@ http://Vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143592.m3u8
 http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/142588.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Box Office" tvg-logo="" group-title="PPV / LIVE EVENTS",Sky Sports Box Office
 http://vodiptv.org:83/live/ttiurT.moT/moT.ttiurT/143547.m3u8
-#EXTINF:-1,UFC 204
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4648.mp4
-#EXTINF:-1,UFC 205
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4647.mp4
-#EXTINF:-1,UFC 206
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4649.mp4
-#EXTINF:-1,UFC 207
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4650.mp4
-#EXTINF:-1,UFC 208
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4651.mp4
-#EXTINF:-1,UFC 209
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4652.mp4
-#EXTINF:-1,UFC 210
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4653.mp4
-#EXTINF:-1,UFC 211
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4654.mp4
-#EXTINF:-1,UFC 212
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4655.mp4
-#EXTINF:-1,UFC 213
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4656.mp4
-#EXTINF:-1,UFC 214
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/4289.mp4
-#EXTINF:-1,Mayweather | McGregor The Money Fight in HD
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/5844.mp4
-#EXTINF:-1,UFC 215
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/6682.mp4
-#EXTINF:-1,Canelo Alvarez vs. Gennady Golovkin
-http://twistedishere.xyz:2095/movie/fordtom/tomford2019/7100.mp4
+#EXTINF:-1 tvg-logo="https://img.bleacherreport.net/img/slides/photos/004/278/126/5a8aa9f2bfe2806421c3ac47c29a526b_crop_exact.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top" group-title="MOVIES",- WWE Survivor Series -
+http://6rf7dt.vkcache.com/secip/0/U5vLoOonS7wRDSnXO9-ncw/MjcuMTQ3LjIyNi4xMjQ=/1511319600/hls-vod-s5/flv/api/files/videos/2017/11/20/1511163761aq1s0.mp4.m3u8
 #EXTINF:-1,TV Kings has all PPV and Live Events
 http://tvkings.vodiptv.org:83/live/mancave/mancave/779.ts
 
