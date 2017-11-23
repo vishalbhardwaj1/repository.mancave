@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.satellitetv-deal.com/images/logos/A%26E-logo.png" group-title="US Entertainment",  A&E
 http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1597.ts
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="http://twocentstv.com/wp-content/uploads/2014/05/ABC.jpg" group-title="US Entertainment",  ABC
