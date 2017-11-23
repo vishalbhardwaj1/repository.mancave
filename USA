@@ -72,6 +72,16 @@
 <streaminginfo>
 	    <cname>number 08</cname>
 	    <item>
+	    <title>NCAAB</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://wizard.mancavekodi.com/images/icon.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/ncaab$$TSDOWNLOADER$$</externallink>
+	    </item>
+</streaminginfo>
+<streaminginfo>
+	    <cname>number 09</cname>
+	    <item>
 	    <title>USA Music</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
