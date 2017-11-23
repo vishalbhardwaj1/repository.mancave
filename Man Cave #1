@@ -20,7 +20,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 10</cname>
+	<cname>number 03</cname>
 	<item>
 	<title>[COLOR blue]TV Shows[/COLOR] [COLOR green]ONLINE[/COLOR][COLOR red]UNDER CONSTRUSTION[/COLOR]</title>
 <link>ignore</link>
@@ -30,7 +30,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 10</cname>
+	<cname>number 04</cname>
 	<item>
 	<title>[COLOR blue]Movies[/COLOR] [COLOR green]ONLINE[/COLOR][COLOR red]UNDER CONSTRUSTION[/COLOR]</title>
 <link>ignore</link>
@@ -40,7 +40,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 04</cname>
+	<cname>number 05</cname>
 	<item>
 	<title>[COLOR blue]USA Live TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -50,7 +50,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 05</cname>
+	<cname>number 06</cname>
 	<item>
 	<title>[COLOR blue]UK Live TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -60,7 +60,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 06</cname>
+	<cname>number 07</cname>
 	<item>
 	<title>[COLOR blue]24 7 TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -70,7 +70,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 07</cname>
+	<cname>number 08</cname>
 	<item>
 	<title>[COLOR blue]Live World Cams[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
@@ -80,23 +80,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 08</cname>
+	<cname>number 09</cname>
 	<item>
 	<title>[COLOR blue]PPV Live Events[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://koditips.com/wp-content/uploads/ppv.png</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/ppv$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 09</cname>
-	<item>
-	<title>[COLOR blue]Huge IPTV Playlist[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>https://3.bp.blogspot.com/-gLf29MIAAlk/V4fWEI_SSlI/AAAAAAAAA8c/E2vCEZNTqpkZ3TsxJJDIdKXZHRmUOhZqQCLcB/s1600/GVFDG.png</thumbnail>
-   <externallink>http://i.satelliteguys.co.uk/get.php?username=crichardson&password=crichardson&type=m3u&output=ts</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -109,15 +99,4 @@
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/adult$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>number 11</cname>
-	<item>
-	<title>TEST</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>https://digitalhealth.blog.gov.uk/wp-content/uploads/sites/106/2014/11/Testing620x410.jpg</thumbnail>
-   <externallink>http://pastebin.com/raw/x6C0tqBp</externallink>
-	</item>
-</streaminginfo>
-
 </streamingInfos>
