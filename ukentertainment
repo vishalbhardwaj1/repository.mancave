@@ -1,247 +1,169 @@
 #EXTM3U
-#EXTINF:-1,BBC1 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67140.ts
-#EXTINF:-1,BBC2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21112.ts
-#EXTINF:-1,ITV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21062.ts
-#EXTINF:-1,BBC4 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21075.ts
-#EXTINF:-1,Channel 4 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21100.ts
-#EXTINF:-1,Channel 5 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21097.ts
-#EXTINF:-1,ITV2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67155.ts
-#EXTINF:-1,ITV3 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21076.ts
-#EXTINF:-1,ITV4 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21055.ts
-#EXTINF:-1,5Star 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21081.ts
-#EXTINF:-1,5USA 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21080.ts
-#EXTINF:-1,My5 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67142.ts
-#EXTINF:-1,E! 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21089.ts
-#EXTINF:-1,E4 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21088.ts
-#EXTINF:-1,Dave 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21092.ts
-#EXTINF:-1,More4 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67149.ts
-#EXTINF:-1,ITV Box Office 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21103.ts
-#EXTINF:-1,ITV Encore 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21066.ts
-#EXTINF:-1,Sky One 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21074.ts
-#EXTINF:-1,SKY TWO 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21107.ts
-#EXTINF:-1,Sky Arts 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21063.ts
-#EXTINF:-1,Sky Living 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67145.ts
-#EXTINF:-1,Sky Living 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21073.ts
-#EXTINF:-1,Sky Atlantic 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67148.ts
-#EXTINF:-1,Sky Atlantic 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21065.ts
-#EXTINF:-1,CBS Action 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21106.ts
-#EXTINF:-1,CBS Reality 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21104.ts
-#EXTINF:-1,CBS Drama 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21105.ts
-#EXTINF:-1,DMAX 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21091.ts
-#EXTINF:-1,Drama 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21090.ts
-#EXTINF:-1,FOX 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21071.ts
-#EXTINF:-1,GOLD 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21070.ts
-#EXTINF:-1,Comedy Central Extra 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21094.ts
-#EXTINF:-1,AMC 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21116.ts
-#EXTINF:-1,Buzzer 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67147.ts
-#EXTINF:-1,Alibi 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21117.ts
-#EXTINF:-1,Food Network 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21079.ts
-#EXTINF:-1,4Seven 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21077.ts
-#EXTINF:-1,Lifetime 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21058.ts
-#EXTINF:-1,Blaze 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21086.ts
-#EXTINF:-1,Good Food 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21118.ts
-#EXTINF:-1,QUEST 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21057.ts
-#EXTINF:-1,Pick 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21049.ts
-#EXTINF:-1,Spike 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21082.ts
-#EXTINF:-1,TLC 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21072.ts
-#EXTINF:-1,Spike 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21111.ts
-#EXTINF:-1,True Movies 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21068.ts
-#EXTINF:-1,Syfy 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21064.ts
-#EXTINF:-1,Real Lives 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21046.ts
-#EXTINF:-1,Really 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21045.ts
-#EXTINF:-1,UTV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21051.ts
-#EXTINF:-1,WATCH 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21053.ts
-#EXTINF:-1,Yesterday 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21054.ts
-#EXTINF:-1,Universal Channel 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67153.ts
-#EXTINF:-1,True Entertainment 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21009.ts
-#EXTINF:-1,BET 
-http://tvkings.vodiptv.org:83/live/mancave/mancave/66993.ts
-#EXTINF:-1,Sky Hits 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21022.ts
-#EXTINF:-1,Sky Action 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21007.ts
-#EXTINF:-1,Sky Premier 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21020.ts
-#EXTINF:-1,Sky Comedy 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21013.ts
-#EXTINF:-1,Sky Select 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21016.ts
-#EXTINF:-1,Sky Greats 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21024.ts
-#EXTINF:-1,Sky Family 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21026.ts
-#EXTINF:-1,Sky Disney 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21000.ts
-#EXTINF:-1,Sky Sci-Fi & Horror 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21015.ts
-#EXTINF:-1,Sky Crime & Thriller 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21014.ts
-#EXTINF:-1,Sky Drama & Romance 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21027.ts
-#EXTINF:-1,Sony Movies 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21001.ts
-#EXTINF:-1,Horror Channel 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21003.ts
-#EXTINF:-1,TCM 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21005.ts
-#EXTINF:-1,True Movies 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21011.ts
-#EXTINF:-1,TRUE MOVIES 2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21012.ts
-#EXTINF:-1,Movies 24 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67156.ts
-#EXTINF:-1,MTV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20971.ts
-#EXTINF:-1,MTV Base 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20973.ts
-#EXTINF:-1,MTV Hits 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20977.ts
-#EXTINF:-1,MTV Dance 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67160.ts
-#EXTINF:-1,MTV Rocks 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20976.ts
-#EXTINF:-1,MTV Classic 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20975.ts
-#EXTINF:-1,VH1 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20965.ts
-#EXTINF:-1,Capital TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20967.ts
-#EXTINF:-1,Kerrang! TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20968.ts
-#EXTINF:-1,Heart TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20972.ts
-#EXTINF:-1,VIVA THE HITS! 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20997.ts
-#EXTINF:-1,MUSIC CHOICETEEN BEATS 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20964.ts
-#EXTINF:-1,MUSIC CHOICE BRIT HITS 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20978.ts
-#EXTINF:-1,MUSIC CHOICE HIP HOP & R & B 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20980.ts
-#EXTINF:-1,MUSIC CHOICE DANCE EDM 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20981.ts
-#EXTINF:-1,MUSIC CHOICE HIT LIST 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20983.ts
-#EXTINF:-1,MUSIC CHOICE POP HITS 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20988.ts
-#EXTINF:-1,MUSIC CHOICE POP & COUNTRY 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20989.ts
-#EXTINF:-1,MUSIC CHOICE RAP 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20990.ts
-#EXTINF:-1,MUSIC CHOICE R&B SOUL 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20991.ts
-#EXTINF:-1,MUSIC CHOICE TROPICALES 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20966.ts
-#EXTINF:-1,MUSIC CHOICE ALTERNATIVE 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20979.ts
-#EXTINF:-1,MUSIC CHOICE INDIE 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20982.ts
-#EXTINF:-1,MUSIC CHOICE LATINO POP 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20984.ts
-#EXTINF:-1,MUSIC CHOICE KIDS ONLY 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20985.ts
-#EXTINF:-1,MUSIC CHOICE MEXICAAN 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20986.ts
-#EXTINF:-1,MUSIC CHOICE TODAYS COUNTRY 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20992.ts
-#EXTINF:-1,MUSIC CHOICE RAP 2K 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20993.ts
-#EXTINF:-1,MUSIC CHOICE ROCK 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20994.ts
-#EXTINF:-1,MUSIC CHOICE Y2K 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20995.ts
-#EXTINF:-1,MUSIC CHOICE THROWBACK JAMZ 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20996.ts
-#EXTINF:-1,MUSIC CHOICE TODDLER TUNES 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20998.ts
-#EXTINF:-1,Sky News 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20958.ts
-#EXTINF:-1,BBC World News 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20961.ts
-#EXTINF:-1,BBC News 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/20962.ts
-#EXTINF:-1,Discovery Shed 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21119.ts
-#EXTINF:-1,Discovery Science 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21120.ts
-#EXTINF:-1,Discovery Turbo 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21121.ts
-#EXTINF:-1,Discovery Channel 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21122.ts
-#EXTINF:-1,Nat Geo Wild 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21123.ts
-#EXTINF:-1,National Geographic 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21125.ts
-#EXTINF:-1,Animal Planet 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21126.ts
-#EXTINF:-1,Investigation Discovery 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21129.ts
-#EXTINF:-1,History 2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21130.ts
-#EXTINF:-1,History 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21131.ts
-#EXTINF:-1,Discovery History 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21132.ts
-#EXTINF:-1,Crime & Investigation 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21133.ts
-#EXTINF:-1,Crime & Investigation 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21134.ts
-#EXTINF:-1,Home 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67137.ts
-#EXTINF:-1,Discovery Home & Health 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67138.ts
+#EXTINF:-1,UK: ALIBI
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/616.ts
+#EXTINF:-1,UK: AMC
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/700.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/699.ts
+#EXTINF:-1,UK: BBC 1
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/819.ts
+#EXTINF:-1,UK: BBC 2
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/818.ts
+#EXTINF:-1,UK: BBC 3
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/817.ts
+#EXTINF:-1,UK: BBC EARTH
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/2048.ts
+#EXTINF:-1,UK: BBC NEWS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/820.ts
+#EXTINF:-1,UK: BET
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/691.ts
+#EXTINF:-1,UK: BLAZE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/6274.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/690.ts
+#EXTINF:-1,UK: CBS REALITY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/694.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/828.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/827.ts
+#EXTINF:-1,UK: CITV
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/6784.ts
+#EXTINF:-1,UK: CLUBLAND TV
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/1009.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/686.ts
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/687.ts
+#EXTINF:-1,UK: CRIME INVESTIGATION
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/685.ts
+#EXTINF:-1,UK: DAVE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/633.ts
+#EXTINF:-1,UK: DISCOVERY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/637.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/634.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/635.ts
+#EXTINF:-1,UK: DISCOVERY SHED
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/638.ts
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/636.ts
+#EXTINF:-1,UK: DMAX
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/642.ts
+#EXTINF:-1,UK: EURONEWS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/199.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/53.ts
+#EXTINF:-1,UK: FOX
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8738.ts
+#EXTINF:-1,UK: GOOD FOOD
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/595.ts
+#EXTINF:-1,UK: HISTORY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/593.ts
+#EXTINF:-1,UK: HOME HEALTH
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/648.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/6275.ts
+#EXTINF:-1,UK: ITV 1
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/826.ts
+#EXTINF:-1,UK: ITV 2
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/825.ts
+#EXTINF:-1,UK: ITV 3
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/824.ts
+#EXTINF:-1,UK: ITV 4
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/823.ts
+#EXTINF:-1,UK: ITV BE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/822.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/821.ts
+#EXTINF:-1,UK: KERRANG
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/620.ts
+#EXTINF:-1,UK: KISS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/621.ts
+#EXTINF:-1,UK: LONDON LIVE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/3337.ts
+#EXTINF:-1,UK: MOVIES 24
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7166.ts
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/652.ts
+#EXTINF:-1,UK: MTV
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/622.ts
+#EXTINF:-1,UK: MTV BASE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/591.ts
+#EXTINF:-1,UK: MTV CLASSIC
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/590.ts
+#EXTINF:-1,UK: MTV HITS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/624.ts
+#EXTINF:-1,UK: MY 5
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/6345.ts
+#EXTINF:-1,UK: NAT GEO
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/654.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/655.ts
+#EXTINF:-1,UK: QUEST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/659.ts
+#EXTINF:-1,UK: REAL LIVES
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/661.ts
+#EXTINF:-1,UK: SCUZZ
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/9890.ts
+#EXTINF:-1,UK: SKY ACTION
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/665.ts
+#EXTINF:-1,UK: SKY ARTS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7593.ts
+#EXTINF:-1,UK: SKY ATLANTIC
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/680.ts
+#EXTINF:-1,UK: SKY COMEDY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/667.ts
+#EXTINF:-1,UK: SKY CRIME AND THRILLER
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7121.ts
+#EXTINF:-1,UK: SKY DISNEY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/668.ts
+#EXTINF:-1,UK: SKY DRAMA AND ROMANCE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7122.ts
+#EXTINF:-1,UK: SKY FAMILY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/669.ts
+#EXTINF:-1,UK: SKY LIVING
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/670.ts
+#EXTINF:-1,UK: SKY MODERN GREATS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/82.ts
+#EXTINF:-1,UK: SKY PREMIERE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/671.ts
+#EXTINF:-1,UK: SKY SCI-FI AND HORROR
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/257.ts
+#EXTINF:-1,UK: SKY SELECT
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/672.ts
+#EXTINF:-1,UK: SKY SHOWCASE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/673.ts
+#EXTINF:-1,UK: SKY SUPERHEROES
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/4657.ts
+#EXTINF:-1,UK: SKY THRILLER
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/679.ts
+#EXTINF:-1,UK: SONY MOVIE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/681.ts
+#EXTINF:-1,UK: SPIKE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8298.ts
+#EXTINF:-1,UK: SYFY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8297.ts
+#EXTINF:-1,UK: TCM
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8296.ts
+#EXTINF:-1,UK: TG4
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/6785.ts
+#EXTINF:-1,UK: TLC
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/632.ts
+#EXTINF:-1,UK: TRU TV
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8293.ts
+#EXTINF:-1,UK: TRUE ENTERTAINMENT
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/433.ts
+#EXTINF:-1,UK: TRUE ENTERTAINMENT 1
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8292.ts
+#EXTINF:-1,UK: TRUE MOVIES
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8291.ts
+#EXTINF:-1,UK: TRUE MOVIES  1
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8290.ts
+#EXTINF:-1,UK: VH1
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/583.ts
+#EXTINF:-1,UK: WATCH
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/629.ts
+#EXTINF:-1,UK: YESTERDAY 1
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8288.ts
