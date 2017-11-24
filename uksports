@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rangers TV" tvg-name="RANGERS TV (LIVE MATCHES ONLY)" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK Sports",RANGERS TV (LIVE MATCHES ONLY)
+#EXTINF:-1 tvg-id="Rangers TV" tvg-name="RANGERS TV (LIVE MATCHES ONLY)" tvg-logo="" group-title="UK Sports",RANGERS TV (LIVE MATCHES ONLY)
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21173.m3u8
 #EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation" tvg-logo="http://static.iptv-epg.com/gb/BoxNation.uk.png" group-title="UK Sports",BoxNation
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21146.m3u8
@@ -31,9 +31,9 @@ http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21159.m3u8
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21158.m3u8
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premiere League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="UK Sports",Sky Sports Premiere League
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 2" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK Sports",MOTOGP LIVE 2
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 3" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK Sports",MOTOGP LIVE 3
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67169.m3u8
 #EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV" tvg-logo="http://static.iptv-epg.com/gb/MotorsTV.uk.png" group-title="UK Sports",Motors TV
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67165.m3u8
