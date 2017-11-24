@@ -1,63 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rangers TV" tvg-name="RANGERS TV (LIVE MATCHES ONLY)" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK Sports",RANGERS TV (LIVE MATCHES ONLY)
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21173.m3u8
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation" tvg-logo="http://static.iptv-epg.com/gb/BoxNation.uk.png" group-title="UK Sports",BoxNation
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21146.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="UK Sports",BT Sport 1
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21144.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="UK Sports",BT Sport 2 HD
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTs 3" tvg-logo="http://gehosting.srve.io/logos/BT%20SPORT%203%20HD.png" group-title="UK Sports",BT SPORTs 3
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21182.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport/ESPN" tvg-logo="http://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="UK Sports",BT Sport/ESPN
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21184.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="UK Sports",Sky Sports F1
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21171.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="UK Sports",Sky Sports Action
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21169.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21167.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="UK Sports",Sky Sports Cricket
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21162.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="UK Sports",Sky Sports Football
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://gehosting.srve.io/logos/SKY%20SPORTS%20GOLF%20HD.png" group-title="UK Sports",SKY SPORTS GOLF
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21155.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Event
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21157.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="UK Sports",Sky Sports Mix
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21159.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="UK Sports",Sky Sports News
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21158.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premiere League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="UK Sports",Sky Sports Premiere League
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 2" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK Sports",MOTOGP LIVE 2
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 3" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK Sports",MOTOGP LIVE 3
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67169.m3u8
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV" tvg-logo="http://static.iptv-epg.com/gb/MotorsTV.uk.png" group-title="UK Sports",Motors TV
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67165.m3u8
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="Movies 24 UK" tvg-logo="http://static.iptv-epg.com/gb/Movies24.uk.png" group-title="UK Movies",Movies 24 UK
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67156.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="http://static.iptv-epg.com/gb/MUTV.uk.png" group-title="UK Sports",MUTV
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/67167.m3u8
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports" tvg-logo="http://static.iptv-epg.com/gb/PremierSports.uk.png" group-title="UK Sports",Premier Sports
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21175.m3u8
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing" tvg-logo="http://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="UK Sports",Racing
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21174.m3u8
 
-#EXTINF:-1,Sky Sports News 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21158.ts
-#EXTINF:-1,Sky Sports Mix 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21159.ts
-#EXTINF:-1,Sky Sports Football 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21151.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21161.ts
-#EXTINF:-1,SKY SPORT MAIN EVENT 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21170.ts
-#EXTINF:-1,Sky Sports Main Event 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21157.ts
-#EXTINF:-1,Sky Sports F1 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21152.ts
-#EXTINF:-1,Sky Sports F1 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21171.ts
-#EXTINF:-1,Sky Sports Arena 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21167.ts
-#EXTINF:-1,Sky Sports Action 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21169.ts
-#EXTINF:-1,Sky Sports Cricket 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21162.ts
-#EXTINF:-1,SKY SPORTS GOLF 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21155.ts
-#EXTINF:-1,BT Sport 1 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21144.ts
-#EXTINF:-1,BT Sport 2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21178.ts
-#EXTINF:-1,BT SPORT 3 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21182.ts
-#EXTINF:-1,At the races 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21142.ts
-#EXTINF:-1,BoxNation 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21146.ts
-#EXTINF:-1,Premier Sports 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21175.ts
-#EXTINF:-1,BT Sport/ESPN 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21184.ts
-#EXTINF:-1,Eurosport 1 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21150.ts
-#EXTINF:-1,Eurosport 2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21149.ts
-#EXTINF:-1,Racing UK
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21174.ts
-#EXTINF:-1,CELTIC TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21185.ts
-#EXTINF:-1,RANGERS TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21173.ts
-#EXTINF:-1,LFC TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21176.ts
-#EXTINF:-1,Chelsea TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/21186.ts
-#EXTINF:-1,Motors TV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67165.ts
-#EXTINF:-1,MUTV 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67167.ts
-#EXTINF:-1,MOTOGP LIVE 2 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67168.ts
-#EXTINF:-1,MOTOGP LIVE 3 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/67169.ts
+
 
