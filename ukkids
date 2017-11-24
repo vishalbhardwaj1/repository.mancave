@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="http://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="UK Kids",Baby TV UK
 http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21037.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito UK" tvg-logo="http://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="UK Kids",Cartoonito UK
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21042.m3u8
 
