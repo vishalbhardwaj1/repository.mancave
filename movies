@@ -1,3 +1,15 @@
+<streamingInfos>
+<streaminginfo>
+	    <cname>number 01</cname>
+	    <item>
+	    <title>4k Movies</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/4BKMsht0_HM/hqdefault.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/4kmovies</externallink>
+	   </item>
+</streaminginfo>
+</streamingInfos>
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="01-Alien[1979]DvDrip-aXXo" tvg-logo="" group-title="Films",01-Alien[1979]DvDrip-aXXo
 http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119360.avi
