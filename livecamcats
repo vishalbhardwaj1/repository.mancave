@@ -49,8 +49,10 @@
 </item>
 
 <item>
-<title></title>
-<utube></utube>
+<title>TEST</title>
+ <link>
+    <sublink>plugin://plugin.video.youtube/user/NFL</sublink>  
+  </link>
 <thumbnail>https://i.pinimg.com/736x/6a/43/f8/6a43f8796a5bfe154ef82e49dd778853--ragamuffin-kittens-ragdoll-cats.jpg</thumbnail>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 </item>
