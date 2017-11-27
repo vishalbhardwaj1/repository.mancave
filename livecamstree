@@ -42,6 +42,16 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
+	<title>NASA Cams</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://clipart-finder.com/data/mini/80-Earth_from_space_NASA_moon_in_background.png</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/livecamspace</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
 	<title>Wildlife Cams</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
