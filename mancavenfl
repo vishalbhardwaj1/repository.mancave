@@ -1,28 +1,12 @@
-<plugins>
-<plugin>
+<streamingInfos>
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
 	<title>NFL</title>
- <link>
-    <sublink>plugin://plugin.video.youtube/user/NFL</sublink>  
-  </link>
-	<thumbnail>http://appmanonline.com/wp-content/uploads/2015/09/NFL-Network.png</thumbnail>
-	<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-	<title>NF FilmsL</title>
- <link>
-    <sublink>plugin://plugin.video.youtube/channel/UCY3NEq2LYrmdoGkevo9BH5A</sublink>  
-  </link>
-	<thumbnail>https://i.ytimg.com/vi/-mq3uzaWyfY/hqdefault.jpg</thumbnail>
-	<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-</plugin>
-
-<plugin>
-	<title>NFL</title>
- <link>
-    <sublink>plugin://plugin.video.youtube/channel/UC_1H9v258pXiyLDaW0R5exw</sublink>  
-  </link>
-	<thumbnail>https://iyfmedia.files.wordpress.com/2012/04/nfl-network-logo.jpg</thumbnail>
-	<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-</plugin>
-</plugins>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail>http://appmanonline.com/wp-content/uploads/2015/09/NFL-Network.png</thumbnail>
+   <externallink>https://plugin://plugin.video.youtube/user/NFL</externallink>
+	</item>
+</streaminginfo>
+</streamingInfos>
