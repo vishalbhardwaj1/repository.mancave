@@ -6,7 +6,9 @@
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://appmanonline.com/wp-content/uploads/2015/09/NFL-Network.png</thumbnail>
-   <externallink>https://plugin://plugin.video.youtube/user/NFL</externallink>
+   <link>
+    <sublink>plugin://plugin.video.youtube/user/NFL</sublink>  
+  </link>
 	</item>
 </streaminginfo>
 </streamingInfos>
