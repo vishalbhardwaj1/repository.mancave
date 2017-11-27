@@ -1,3 +1,4 @@
+<plugins>
 <plugin>
 	<title>NFL</title>
  <link>
@@ -23,4 +24,5 @@
   </link>
 	<thumbnail>https://iyfmedia.files.wordpress.com/2012/04/nfl-network-logo.jpg</thumbnail>
 	<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-</plugin
+</plugin>
+</plugins>
