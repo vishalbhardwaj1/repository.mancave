@@ -40,33 +40,13 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-	<cname>number 05</cname>
-	<item>
-	<title>[COLOR blue]USA Live TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>https://cdn2.iconfinder.com/data/icons/world-flags-1-1/100/USA_-512.png</thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/USA$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 06</cname>
-	<item>
-	<title>[COLOR blue]UK Live TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>https://cdn4.iconfinder.com/data/icons/flat-circle-flag/182/united_kingdom_UK_England_circle_flag-512.png</thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/UK$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>[COLOR blue]24 7 TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
+	<title>[COLOR blue]Live TV[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/446637912315015168/1dkWfXNU_400x400.jpeg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/247$$TSDOWNLOADER$$</externallink>
+<thumbnail>https://www.baritalianews.it/wp-content/uploads/2014/04/live_tv_logo-1.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/livetv$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
@@ -77,16 +57,6 @@
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail>http://www.azoosh.com/wp-content/uploads/2014/08/Webcams-cover-header-banner-web-cam-photos-big-bold-white-type-heading-pics.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/livecamstree</externallink>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>number 09</cname>
-	<item>
-	<title>[COLOR blue]PPV Live Events[/COLOR] [COLOR green]ONLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
-<thumbnail>http://koditips.com/wp-content/uploads/ppv.png</thumbnail>
-   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/ppv$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
