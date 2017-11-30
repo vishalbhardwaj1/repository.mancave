@@ -1,55 +1,79 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="LABEL",* Fluxus Cinema
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Movies/TV Shows
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.25.2017
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",@ Now Available
-http://184.173.142.117:21728/stream
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ Movies in English
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/37sLsd4N0JY/movieposter.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
-https://archive.org/download/Agent_2017/Agent%202017.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91pdhWkuX5L._SX342_.jpg" group-title="MOVIES",Awakening the Zodiac (2017) [AR-Subs]
-https://archive.org/download/AwakeningTheZodiac2017/Awakening%20the%20Zodiac%202017.mp4
-
-#EXTINF:-1 tvg-logo="http://www.mongrelmedia.com/MongrelMedia/files/04/0411c9ac-89a8-4ad8-a476-989284573e57.jpg" group-title="MOVIES",Black Site Delta (2017) [AR-Subs]
-https://archive.org/download/BlackSiteDelta2017/Black%20Site%20Delta%202017.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/fifty-shades-darker-2017/large_fifty_shades_darker_ver2.jpg" group-title="MOVIES",Fifty Shades Darker (2017)
-https://archive.org/download/FiftyShadesDarker2017720pYTS.AG/Fifty.Shades.Darker.2017.720p.BluRay.x264-[YTS.AG].mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgbox.com/CEFrgVi9.jpg" group-title="MOVIES",King Arthur - Legend of the Sword (2017)
-https://archive.org/download/KingArthurLegendOfTheSword2017720pBRripX265HEVC10bitPoOlLa/King%20Arthur%20Legend%20of%20the%20Sword%202017%20720p%20BRrip%20x265%20HEVC%2010bit%20PoOlLa.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VkEOtTI.jpg" group-title="MOVIES",Life (2017) [AR-Subs]
-https://archive.org/download/Life2017/Life%202017.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="MOVIES",Logan (2017) [AR-Subs]
-https://archive.org/download/Logan2017/Logan%202017.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tM0BIGf.jpg" group-title="MOVIES",Kong - Skull Island (2017) [AR-Subs]
-https://archive.org/download/Kong.Skull.Island.2017.1080p.WEBDL.akoam.com/Kong.Skull.Island.2017.1080p.WEB-DL.akoam.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Kcxcs5O7vj8/movieposter.jpg" group-title="MOVIES",T2 Trainspotting (2017)
-https://archive.org/download/T2.Trainspotting.2017.1080p.BluRay.AVC.DTSHD.MA.5.1FGTrarbg.to/BDMV/STREAM/00001.mp4
-
-#EXTINF:-1 tvg-logo="http://horrornews.net/wp-content/uploads/2016/12/The-snare-2017-movie-poster.jpg" group-title="MOVIES",The Snare (2017)
-https://archive.org/download/TheSnare2017/The%20Snare%20(2017).mp4
-
-#EXTINF:-1 tvg-logo="https://myegy.tv/files/img/content/3/120/1494046678.original.jpg" group-title="MOVIES",xXx - Return of Xander Cage (2017) [Dual-ES]
-https://archive.org/download/Xxx.return.of.xander.cage1080pDualLat/Xxx.return.of.xander.cage%201080p-dual-lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naked.2017.HDRip.XviD.AC3-EVO" tvg-logo="" group-title="Films",Naked.2017.HDRip.XviD.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119797.avi
+#EXTINF:-1 tvg-id="" tvg-name="Pirates Of The Caribbean Dead Men Tell No Tales 2017 720p HDRiP x264 AC3 - MutzNutz" tvg-logo="" group-title="Films",Pirates Of The Caribbean Dead Men Tell No Tales 2017 720p HDRiP x264 AC3 - MutzNutz
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean_ Dead Men Tell No Tales (2017)" tvg-logo="" group-title="New Releases",Pirates of the Caribbean_ Dead Men Tell No Tales (2017)
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.FHDp.WEB-DL.H264.AC3-EVO" tvg-logo="" group-title="New Releases",Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.FHDp.WEB-DL.H264.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.3D.FHDp.BluRay.x264-SPRiNTER" tvg-logo="" group-title="Films",Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.3D.FHDp.BluRay.x264-SPRiNTER
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="rep-thebigsick.2017.720p.bluray.x264" tvg-logo="" group-title="Films",rep-thebigsick.2017.720p.bluray.x264
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ripped.2017.HDRip.XviD.AC3-EVO" tvg-logo="" group-title="New Releases",Ripped.2017.HDRip.XviD.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124431.avi
+#EXTINF:-1 tvg-id="" tvg-name="Rough.Night.2017.BRRip.XviD.AC3-EVO" tvg-logo="" group-title="Films",Rough.Night.2017.BRRip.XviD.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119869.avi
+#EXTINF:-1 tvg-id="" tvg-name="sample" tvg-logo="" group-title="It.Comes.at.Night.2017.HDRip.XviD.AC3-EVO",sample
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124515.avi
+#EXTINF:-1 tvg-id="" tvg-name="Sample" tvg-logo="" group-title="Happy Death Day 2017 HD-TS X264 HQ-DADDY",Sample
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sample" tvg-logo="" group-title="Churchill.2017.BRRip.XviD.AC3-EVO",sample
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124513.avi
+#EXTINF:-1 tvg-id="" tvg-name="sample" tvg-logo="" group-title="Cardboard.Gangsters.2017.HDRip.XviD.AC3-EVO",sample
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124512.avi
+#EXTINF:-1 tvg-id="" tvg-name="Sample" tvg-logo="" group-title="X-Men Decalogy (2000-2017) [1080p] 5.1 BluRayx264",Sample
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sample 1" tvg-logo="" group-title="Kingsman_.The.Golden.Circle.2017.CAM.READNFO.XViD-",sample 1
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124520.avi
+#EXTINF:-1 tvg-id="" tvg-name="sample 2" tvg-logo="" group-title="Kingsman_.The.Golden.Circle.2017.CAM.READNFO.XViD-",sample 2
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124521.avi
+#EXTINF:-1 tvg-id="" tvg-name="Shot Caller (2017) Bluray-720p" tvg-logo="" group-title="Films",Shot Caller (2017) Bluray-720p
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shot Caller 2017 720p BRRip x264 AC3-DiVERSiTY" tvg-logo="" group-title="Films",Shot Caller 2017 720p BRRip x264 AC3-DiVERSiTY
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snatched 2017 BluRay 10Bit FHDp Multi-Multi H265-d3g" tvg-logo="" group-title="Films",Snatched 2017 BluRay 10Bit FHDp Multi-Multi H265-d3g
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Tower 2017 720p TS x264 AC3 TiTAN" tvg-logo="" group-title="Films",The Dark Tower 2017 720p TS x264 AC3 TiTAN
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fate of the Furious (2017)" tvg-logo="" group-title="New Releases",The Fate of the Furious (2017)
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Fate.of.the.Furious.2017.FHDp.WEB-DL.H264.AC3-EVO" tvg-logo="" group-title="New Releases",The.Fate.of.the.Furious.2017.FHDp.WEB-DL.H264.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Foreigner 2017 ENGLISH CAM-H264-AC3-Zi$t" tvg-logo="" group-title="The Foreigner 2017 ENGLISH CAM-H264-AC3-Zi$t",The Foreigner 2017 ENGLISH CAM-H264-AC3-Zi$t
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hero 2017 720p BRRip AC3 X264 MutzNutz" tvg-logo="" group-title="Films",The Hero 2017 720p BRRip AC3 X264 MutzNutz
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Layover 2017 720p HDRIP AC3 X264 MutzNutz" tvg-logo="" group-title="Films",The Layover 2017 720p HDRIP AC3 X264 MutzNutz
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/119972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Space Between Us (2017)" tvg-logo="" group-title="New Releases",The Space Between Us (2017)
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Book.Of.Henry.2017.FHDp.BluRay.x264-GECKOS" tvg-logo="" group-title="New Releases",The.Book.Of.Henry.2017.FHDp.BluRay.x264-GECKOS
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Hitmans.Bodyguard.2017.FHDp.HDRip.X264.AC3-EVO" tvg-logo="" group-title="New Releases",The.Hitmans.Bodyguard.2017.FHDp.HDRip.X264.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Lost.City.of.Z.2017.HDRip.XviD.AC3-EVO" tvg-logo="" group-title="New Releases",The.Lost.City.of.Z.2017.HDRip.XviD.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124491.avi
+#EXTINF:-1 tvg-id="" tvg-name="The.Man.with.the.Iron.Heart.2017.BRRip.XviD.AC3-EVO" tvg-logo="" group-title="The.Man.With.The.Iron.Heart.2017.BRRip.XviD.AC3-EV",The.Man.with.the.Iron.Heart.2017.BRRip.XviD.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124533.avi
+#EXTINF:-1 tvg-id="" tvg-name="The.Mummy.2017.FHDp.HC.HDRip.X264.AC3-EVO" tvg-logo="" group-title="New Releases",The.Mummy.2017.FHDp.HC.HDRip.X264.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Mummy.2017.FHDp.HC.HDRip.X264.AC3-EVO" tvg-logo="" group-title="New Releases",The.Mummy.2017.FHDp.HC.HDRip.X264.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Mummy.2017.FHDp.WEB-DL.H264.AC3-EVO" tvg-logo="" group-title="New Releases",The.Mummy.2017.FHDp.WEB-DL.H264.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Man.with.the.Iron.Heart.2017.BRRip.XviD.AC3-EVO" tvg-logo="" group-title="The.Man.With.The.Iron.Heart.2017.BRRip.XviD.AC3-EV",The.Man.with.the.Iron.Heart.2017.BRRip.XviD.AC3-EVO
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124533.avi
+#EXTINF:-1 tvg-id="" tvg-name="The.Ottoman.Lieutenant.2017.BluRay.FHDp.DTS.x264-CHD" tvg-logo="" group-title="Films",The.Ottoman.Lieutenant.2017.BluRay.FHDp.DTS.x264-CHD
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/120064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Wall.2017.FHDp.BRRip X264 AC3 MutzNutz" tvg-logo="" group-title="New Releases",The.Wall.2017.FHDp.BRRip X264 AC3 MutzNutz
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the.zookeepers.wife.2017.FHDp.bluray.x264-geckos" tvg-logo="" group-title="New Releases",the.zookeepers.wife.2017.FHDp.bluray.x264-geckos
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers The Last Knight 2017" tvg-logo="" group-title="New Releases",Transformers The Last Knight 2017
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers The Last Knight 2017 720p BluRay DD-EX5.1 x264-LoRD" tvg-logo="" group-title="Films",Transformers The Last Knight 2017 720p BluRay DD-EX5.1 x264-LoRD
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/120108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transformers The Last Knight 2017 720p HDTS AC3 X264 MutzNutz" tvg-logo="" group-title="New Releases",Transformers The Last Knight 2017 720p HDTS AC3 X264 MutzNutz
+http://93.190.143.231:83/movie/ttiurT.moT/moT.ttiurT/124499.mkv
