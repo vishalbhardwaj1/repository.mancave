@@ -1,39 +1,79 @@
 #EXTM3U
-#EXTINF:-1,NCAAB 1: ST JOHNS AT UCF 11/26 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10873.ts
-#EXTINF:-1,NCAAB 2: TEXAS AT #17 GONZAGA 11/26 1PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10872.ts
-#EXTINF:-1,NCAAB 3: OKLAHOMA T OREGON 11/26 1PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10871.ts
-#EXTINF:-1,NCAAB 4: LONNG BEACH STATE AT NEBRASKA 11/26 230PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10870.ts
-#EXTINF:-1,NCAAB 5: ARKANSAS AT CONNECTICUT 11/26 3PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10869.ts
-#EXTINF:-1,NCAAB 6: UC RIVERSIDE AT MICHIGAN 11/26 4PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10868.ts
-#EXTINF:-1,NCAAB 7: AIR FORCE AT COLORADO 11/26 4PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10867.ts
-#EXTINF:-1,NCAAB 8: TEMPLE AT LA SALLE 11/26 5PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10866.ts
-#EXTINF:-1,NCAAB 9: #21 SAINT MARYS AT GEORGIA 11/26 5PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10865.ts
-#EXTINF:-1,NCAAB 10: UIC AT #8 KENTUCKY 11/26 6PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10864.ts
-#EXTINF:-1,NCAAB 11: UC IRVINE AT #23 UCLA 11/26 6PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10863.ts
-#EXTINF:-1,NCAAB 12: PORTLAND AT DEPAUL 11/26 7PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10862.ts
-#EXTINF:-1,NCAAB 13: UC DAVIS AT WASHINGTON 11/26 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10861.ts
-#EXTINF:-1,NCAAB 14: #9 NORTH CAROLINA AT #4 MICHIGAN STATE 11/26 830PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10860.ts
-#EXTINF:-1,NCAAB 15: MISSOURI AT #23 WEST VIRGINIA 11/26 930PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10859.ts
-#EXTINF:-1,NCAAB 16: PORTLAND ST AT STANFORD 11/26 930PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10858.ts
-#EXTINF:-1,NCAAB 17: #16 TEXAS A&M AT #10 USC 11/26 10PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10857.ts
-#EXTINF:-1,NCAAB 18: #1 DUKE AT #7 FLORIDA 11/26 1030PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10856.ts
-#EXTINF:-1,NCAAB 19: WASHINGTON STATE AT SAN DIEGO STATE 11/26 1145PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10855.ts
+#EXTINF:-1,NCAAB 1: HOLY CROSS AT MANHATTAN 12/1 1130AM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12131.ts
+#EXTINF:-1,NCAAB 2: TOWNSON AT LASALLE 12/1 2PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12130.ts
+#EXTINF:-1,NCAAB 3: PURDUE AT MARLAND 12/1 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12129.ts
+#EXTINF:-1,NCAAB 4: ILLINOIS AT NORTHWESTERN 12/1 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12128.ts
+#EXTINF:-1,NCAAB 5: BOISE STATE AT OREGON 930PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12127.ts
+#EXTINF:-1,NCAAB 6: #25 CREIGHTON AT #15 GONZAGA 12/1 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12126.ts
+#EXTINF:-1,NCAAB 7: #11 CINCINNATI AT #21 XAVIER 12/2 12PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12125.ts
+#EXTINF:-1,NCAAB 8: INDIANA AT MICHIGAN 12/2 1230PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12124.ts
+#EXTINF:-1,NCAAB 9: GEORGIA AT MARQUETTE 12/2 2PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12123.ts
+#EXTINF:-1,NCAAB 10: #8 WICHITA STATE AT #16 BAYLOR 12/2 2PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12122.ts
+#EXTINF:-1,NCAAB 11: SAINT LOUIS AT BUTLER 12/2 2PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12121.ts
+#EXTINF:-1,NCAAB 12: UC DAVIS AT WASHINGTON STATE 12/2 3PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12120.ts
+#EXTINF:-1,NCAAB 13: SOUTH DAKOTA AT #1 DUKE 12/2 330PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12119.ts
+#EXTINF:-1,NCAAB 14: HARVARD AT #7 KENTUCKY 12/2 330PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12118.ts
+#EXTINF:-1,NCAAB 15: SACRED HEART AT ST JOHNS 12/2 430PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12117.ts
+#EXTINF:-1,NCAAB 16: OHIO STATE AT WISCONSIN 12/2 5PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12116.ts
+#EXTINF:-1,NCAAB 17: LOYOLA ATMARYMOUNT AT OREGON STATE 12/2 5PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12115.ts
+#EXTINF:-1,NCAAB 18: PROVIDENCE AT RHODE ISLAND 12/2 5PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12114.ts
+#EXTINF:-1,NCAAB 19: #2 KANSAS AT SYRACUSE 12/2 530PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12113.ts
+#EXTINF:-1,NCAAB 21: #4 VILLANOVA AT SAINT JOSEPHS 12/2 530PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12112.ts
+#EXTINF:-1,NCAAB 22: HAWAII AT UTAH 12/2 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12111.ts
+#EXTINF:-1,NCAAB 23: ARKANSAS AT HOUSTON 12/2 730PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12110.ts
+#EXTINF:-1,NCAAB 24: PRINCETON AT #10MIAMI 12/2 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12109.ts
+#EXTINF:-1,NCAAB 25: SAN FRANCISCO AT #20 ARIZONA STATE 12/2 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12108.ts
+#EXTINF:-1,NCAAB 26: #14 USC AT SMU 12/2 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12107.ts
+#EXTINF:-1,NCAAB 27: ARIZONA AT UNLV 12/2 10PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12106.ts
+#EXTINF:-1,NCAAB 28: SAINT MARYS AT CALIFORNIA 12/2 11PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12105.ts
+#EXTINF:-1,NCAAB 29: TULANE AT #13 NORTH CAROLINA 12/3 2PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12104.ts
+#EXTINF:-1,NCAAB 30: UCF AT #24 ALABAMA 12/3 2PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12103.ts
+#EXTINF:-1,NCAAB 31: SETON HALL AT #17 LOUISVILLE 12/3 4PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12102.ts
+#EXTINF:-1,NCAAB 32: NORTHWESTERN AT PURDUE 12/3 4PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12101.ts
+#EXTINF:-1,NCAAB 33: NEBRASKA AT #3 MICHIGAN STATE 12/3 430PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12100.ts
+#EXTINF:-1,NCAAB 34: TENNESSEE AT GEORGIA TECH 12/3 6PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12099.ts
+#EXTINF:-1,NCAAB 35: RUTGERS AT #12 MINNESOTA 12/3 6PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12098.ts
+#EXTINF:-1,NCAAB 36: COPPIN STATE AT GEORGETOWN 12/3 630PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12097.ts
+#EXTINF:-1,NCAAB 37: OMAHA AT WASHINGTON 12/3 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12096.ts
+#EXTINF:-1,NCAAB 38: MARYLAND AT ILLINOIS 12/3 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12095.ts
+#EXTINF:-1,NCAAB 39: DAYTON AT MISSISSIPPI STATE 12/3 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12094.ts
+#EXTINF:-1,NCAAB 40: DETROIT MERCY AT UCLA 12/3 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12093.ts
