@@ -1,41 +1,43 @@
 #EXTM3U
-#EXTINF:-1,: SKY SPORTS ACTION
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="UK Sports",Sky Sports Action
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/19.ts
-#EXTINF:-1,  Sky Sports Action
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="UK Sports",Sky Sports Action
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/254.ts
-#EXTINF:-1,: SKY SPORTS ARENA
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/4092.ts
-#EXTINF:-1,  Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="UK Sports",Sky Sports Arena
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/255.ts
-#EXTINF:-1,: SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="UK Sports",Sky Sports Cricket
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/20.ts
-#EXTINF:-1,  Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="UK Sports",Sky Sports Cricket
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/253.ts
-#EXTINF:-1,: SKY SPORTS F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="UK Sports",Sky Sports F1
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/9.ts
-#EXTINF:-1,  Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="UK Sports",Sky Sports F1
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/256.ts
-#EXTINF:-1,: SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="UK Sports",Sky Sports Football
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/4093.ts
-#EXTINF:-1,: SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="UK Sports",Sky Sports Football
+http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21151.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Event
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/21.ts
-#EXTINF:-1,  Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="UK Sports",Sky Sports Main Event
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/257.ts
-#EXTINF:-1,: SKY SPORTS MIX
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="UK Sports",Sky Sports Mix
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/3338.ts
-#EXTINF:-1,  Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="UK Sports",Sky Sports Mix
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/260.ts
-#EXTINF:-1,: SKY SPORTS NEWS
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="UK Sports",Sky Sports News
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/1062.ts
-#EXTINF:-1,Sky Sports News
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="UK Sports",Sky Sports News
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/261.ts
-#EXTINF:-1,: SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premiere League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="UK Sports",Sky Sports Premiere League
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/17.ts
-#EXTINF:-1,  Sky Sports Premiere League
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premiere League" tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="UK Sports",Sky Sports Premiere League
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/258.ts
-#EXTINF:-1,: SKY SPORTS THE OPEN
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://gehosting.srve.io/logos/SKY%20SPORTS%20GOLF%20HD.png" group-title="UK Sports",SKY SPORTS GOLF
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/18.ts
-#EXTINF:-1,  SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://gehosting.srve.io/logos/SKY%20SPORTS%20GOLF%20HD.png" group-title="UK Sports",SKY SPORTS GOLF
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/252.ts
 #EXTINF:-1,Sky Sports Box Office
 http://tvstreams.xyz:83/live/Jr8nixjzWa/tftIq7z244/2597.ts
