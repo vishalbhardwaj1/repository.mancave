@@ -42,11 +42,11 @@
 <streaminginfo>
 	<cname>number 03</cname>
 	<item>
-	<title>]</title>
+	<title>Test</title>
 <link>ignore</link>
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 <thumbnail></thumbnail>
-   <externallink>$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/yuanxin69/m3u/master/124.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 <streaminginfo>
