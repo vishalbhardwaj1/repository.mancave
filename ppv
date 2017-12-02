@@ -5,6 +5,8 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/9.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/99.ts
 #EXTINF:-1,tvkingsiptv@gmail.com
 http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
+#EXTINF:-1,US: WWE NETWORK
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/1.ts
 #EXTINF:-1,Event 1: UFC 218 Dec 2
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/12092.ts
 #EXTINF:-1,Event 2: HBO Boxing Dec 2
