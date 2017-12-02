@@ -1,24 +1,185 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 AMERICAN HORROR STORY" tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/04/stream-american-horror-story.png" group-title="24/7 TV Shows",AMERICAN HORROR STORY
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/7215.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING BAD" tvg-logo="https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/622/breaking_bad_css3_svg_raw.png" group-title="24/7 TV Shows",BREAKING BAD
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8210.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FAST N LOUD" tvg-logo="http://www.theglobaldispatch.com/wp-content/uploads/2015/08/Fast-N-Loud-banner.jpg" group-title="24/7 TV Shows",FAST N LOUD
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8209.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 GAME OF THRONES" tvg-logo="http://tvisual.org/wp-content/uploads/2011/10/sean-bean-game-of-thrones.jpg" group-title="24/7 TV Shows",GAME OF THRONES
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/6724.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 IMPRATICAL JOKERS" tvg-logo="http://wac.450f.edgecastcdn.net/80450F/thefw.com/files/2013/01/impractical-jokers-13.jpg" group-title="24/7 TV Shows",IMPRATICAL JOKERS
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8207.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ORANGE IS THE NEW BLACK" tvg-logo="http://starcasm.net/wp-content/uploads/2016/06/Orange_Is_The_New_Black_cast.jpg" group-title="24/7 TV Shows",ORANGE IS THE NEW BLACK
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/7207.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SEINFELD" tvg-logo="http://pmehlman.com/wp-content/uploads/2011/08/4small.jpg" group-title="24/7 TV Shows",SEINFELD
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8202.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SONS OF ANARCHY" tvg-logo="http://www.tshirtvortex.net/wp-content/uploads/Sons-of-Anarchy-Grim-Reaper-T-Shirt.jpg" group-title="24/7 TV Shows",SONS OF ANARCHY
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/7099.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE BIG BANG THEORY" tvg-logo="http://www.readingtree.org/wp-content/uploads/2013/05/Big-Bang-Theory.jpg" group-title="24/7 TV Shows",THE BIG BANG THEORY
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8199.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE SOPRANOS" tvg-logo="http://i.pinimg.com/736x/01/93/50/01935002334cbc466fee26e3c9282860.jpg" group-title="24/7 TV Shows",THE SOPRANOS
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8198.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 THE WALKING DEAD" tvg-logo="http://cdn1.sciencefiction.com/wp-content/uploads/2014/12/walking-dead-featured.jpg" group-title="24/7 TV Shows",THE WALKING DEAD
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8196.ts
+#EXTINF:-1 tvg-id="" tvg-name=" 13 REASONS WHY" tvg-logo="" group-title=" TV Shows", 13 REASONS WHY
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143988.ts
+#EXTINF:-1 tvg-id="" tvg-name="- 3rd Rock From the Sun" tvg-logo="" group-title=" Binge Watch Episodes",- 3rd Rock From the Sun
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56991.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALL IN THE FAMILY" tvg-logo="" group-title=" TV Shows", ALL IN THE FAMILY
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143987.ts
+#EXTINF:-1 tvg-id="" tvg-name="- American Dad" tvg-logo="" group-title=" Binge Watch Episodes",- American Dad
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56989.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN GODS " tvg-logo="" group-title=" TV Shows",AMERICAN GODS 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/144004.ts
+#EXTINF:-1 tvg-id="" tvg-name=" AMERICAN HORROR STORY" tvg-logo="" group-title=" TV Shows", AMERICAN HORROR STORY
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143985.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Archer" tvg-logo="" group-title=" Binge Watch Episodes",- Archer
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56987.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Arrow" tvg-logo="" group-title=" Binge Watch Episodes",- Arrow
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56985.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ASH VS EVIL DEAD" tvg-logo="" group-title=" TV Shows", ASH VS EVIL DEAD
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143984.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND OF BROTHERS " tvg-logo="" group-title=" TV Shows",BAND OF BROTHERS 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/144008.ts
+#EXTINF:-1 tvg-id="" tvg-name=" BETTER CALL SAUL" tvg-logo="" group-title=" TV Shows", BETTER CALL SAUL
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143983.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Better Off Ted" tvg-logo="" group-title=" Binge Watch Episodes",- Better Off Ted
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56980.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Bewitched" tvg-logo="" group-title=" Binge Watch Episodes",- Bewitched
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56979.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOTTOM " tvg-logo="" group-title=" TV Shows",BOTTOM 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/144000.ts
+#EXTINF:-1 tvg-id="" tvg-name=" BREAKING BAD" tvg-logo="" group-title=" TV Shows", BREAKING BAD
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143982.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRUCE LEE " tvg-logo="" group-title=" TV Shows",BRUCE LEE 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143993.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Californication" tvg-logo="" group-title=" Binge Watch Episodes",- Californication
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56976.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Chuck" tvg-logo="" group-title=" Binge Watch Episodes",- Chuck
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56973.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLONY " tvg-logo="" group-title=" TV Shows",COLONY 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143999.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Community" tvg-logo="" group-title=" Binge Watch Episodes",- Community
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56972.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Cowboy Bebop" tvg-logo="" group-title=" Binge Watch Episodes",- Cowboy Bebop
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56971.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Eureka" tvg-logo="" group-title=" Binge Watch Episodes",- Eureka
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56966.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Evangelion" tvg-logo="" group-title=" Binge Watch Episodes",- Evangelion
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56965.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Family Guy" tvg-logo="" group-title=" Binge Watch Episodes",- Family Guy
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56964.ts
+#EXTINF:-1 tvg-id="" tvg-name=" FAST N LOUD" tvg-logo="" group-title=" TV Shows", FAST N LOUD
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143981.ts
+#EXTINF:-1 tvg-id="" tvg-name="FATHER TED " tvg-logo="" group-title=" TV Shows",FATHER TED 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143952.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Friends" tvg-logo="" group-title=" Binge Watch Episodes",- Friends
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56962.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GAME OF THRONES" tvg-logo="" group-title=" TV Shows", GAME OF THRONES
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143980.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GAME ON" tvg-logo="" group-title=" TV Shows", GAME ON
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143979.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Gavin And Stacey" tvg-logo="" group-title=" Binge Watch Episodes",- Gavin And Stacey
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56960.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GOLD RUSH" tvg-logo="" group-title=" TV Shows", GOLD RUSH
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143978.ts
+#EXTINF:-1 tvg-id="" tvg-name=" GOTHAM" tvg-logo="" group-title=" TV Shows", GOTHAM
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143977.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Gundam Wing" tvg-logo="" group-title=" Binge Watch Episodes",- Gundam Wing
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56957.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Heroes" tvg-logo="" group-title=" Binge Watch Episodes",- Heroes
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56956.ts
+#EXTINF:-1 tvg-id="" tvg-name="- House of Cards" tvg-logo="" group-title=" Binge Watch Episodes",- House of Cards
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56955.ts
+#EXTINF:-1 tvg-id="" tvg-name="- I Dream of Jeannie" tvg-logo="" group-title=" Binge Watch Episodes",- I Dream of Jeannie
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56954.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IMPRATICAL JOKERS" tvg-logo="" group-title=" TV Shows", IMPRATICAL JOKERS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143976.ts
+#EXTINF:-1 tvg-id="" tvg-name="JASON BOURNE " tvg-logo="" group-title=" TV Shows",JASON BOURNE 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143997.ts
+#EXTINF:-1 tvg-id="" tvg-name="- King of Queens" tvg-logo="" group-title=" Binge Watch Episodes",- King of Queens
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56949.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LITTLE RASCALS" tvg-logo="" group-title=" TV Shows", LITTLE RASCALS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143974.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARVELS IRON FIST " tvg-logo="" group-title=" TV Shows",MARVELS IRON FIST 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143996.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MASH" tvg-logo="" group-title=" TV Shows", MASH
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143973.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX & PADDY " tvg-logo="" group-title=" TV Shows",MAX & PADDY 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/144003.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONLY FOOLS AND HORSES " tvg-logo="" group-title=" TV Shows",ONLY FOOLS AND HORSES 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143951.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONLY FOOLS XMAS SPECIALS " tvg-logo="" group-title=" TV Shows",ONLY FOOLS XMAS SPECIALS 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143950.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ORANGE IS THE NEW BLACK" tvg-logo="" group-title=" TV Shows", ORANGE IS THE NEW BLACK
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143972.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Over the Garden Wall" tvg-logo="" group-title=" Binge Watch Episodes",- Over the Garden Wall
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56942.ts
+#EXTINF:-1 tvg-id="" tvg-name="POWER " tvg-logo="" group-title=" TV Shows",POWER 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/144002.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Pretty Little Liars" tvg-logo="" group-title=" Binge Watch Episodes",- Pretty Little Liars
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56936.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Psych" tvg-logo="" group-title=" Binge Watch Episodes",- Psych
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56935.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Reboot" tvg-logo="" group-title=" Binge Watch Episodes",- Reboot
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56934.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Regular Show" tvg-logo="" group-title=" Binge Watch Episodes",- Regular Show
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56933.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="- Rick and Morty" tvg-logo="" group-title=" Binge Watch Episodes",- Rick and Morty
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56932.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SCI-FI" tvg-logo="" group-title=" TV Shows", SCI-FI
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143970.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Scrubs" tvg-logo="" group-title=" Binge Watch Episodes",- Scrubs
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56929.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SEINFELD" tvg-logo="" group-title=" TV Shows", SEINFELD
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143969.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Silicon Valley" tvg-logo="" group-title=" Binge Watch Episodes",- Silicon Valley
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56927.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Silverhawks" tvg-logo="" group-title=" Binge Watch Episodes",- Silverhawks
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56926.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Smallville" tvg-logo="" group-title=" Binge Watch Episodes",- Smallville
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56925.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SNAPPED" tvg-logo="" group-title=" TV Shows", SNAPPED
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143967.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SONS OF ANARCHY" tvg-logo="" group-title=" TV Shows", SONS OF ANARCHY
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143966.ts
+#EXTINF:-1 tvg-id="" tvg-name="- South Park" tvg-logo="" group-title=" Binge Watch Episodes",- South Park
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56924.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Space Dandy" tvg-logo="" group-title=" Binge Watch Episodes",- Space Dandy
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56923.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Speed Racer" tvg-logo="" group-title=" Binge Watch Episodes",- Speed Racer
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56922.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Movies " tvg-logo="" group-title=" TV Shows",Star Wars Movies 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143989.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Steven Universe" tvg-logo="" group-title=" Binge Watch Episodes",- Steven Universe
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56918.ts
+#EXTINF:-1 tvg-id="" tvg-name=" STRANGER THINGS" tvg-logo="" group-title=" TV Shows", STRANGER THINGS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143965.ts
+#EXTINF:-1 tvg-id="" tvg-name=" STREET OUTLAWS" tvg-logo="" group-title=" TV Shows", STREET OUTLAWS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143964.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SUPERWHY" tvg-logo="" group-title=" TV Shows", SUPERWHY
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143963.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Swat Kats" tvg-logo="" group-title=" Binge Watch Episodes",- Swat Kats
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56916.ts
+#EXTINF:-1 tvg-id="" tvg-name="- That 70s Show" tvg-logo="" group-title=" Binge Watch Episodes",- That 70s Show
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56912.ts
+#EXTINF:-1 tvg-id="" tvg-name=" THE BIG BANG THEORY" tvg-logo="" group-title=" TV Shows", THE BIG BANG THEORY
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143962.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Big O" tvg-logo="" group-title=" Binge Watch Episodes",- The Big O
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56908.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Brak Show" tvg-logo="" group-title=" Binge Watch Episodes",- The Brak Show
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56907.ts
+#EXTINF:-1 tvg-id="" tvg-name=" THE DEFENDERS" tvg-logo="" group-title=" TV Shows", THE DEFENDERS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143961.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Flash" tvg-logo="" group-title=" Binge Watch Episodes",- The Flash
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56906.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Inbetweeners (UK)" tvg-logo="" group-title=" Binge Watch Episodes",- The Inbetweeners (UK)
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56905.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE MIGHTY BOOSH " tvg-logo="" group-title=" TV Shows",THE MIGHTY BOOSH 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143995.ts
+#EXTINF:-1 tvg-id="" tvg-name=" THE MUNSTERS" tvg-logo="" group-title=" TV Shows", THE MUNSTERS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143960.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Simpsons" tvg-logo="" group-title="KIDS TV",- The Simpsons
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56901.ts
+#EXTINF:-1 tvg-id="" tvg-name=" THE SOPRANOS" tvg-logo="" group-title=" TV Shows", THE SOPRANOS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143959.ts
+#EXTINF:-1 tvg-id="" tvg-name=" THE WALKING DEAD" tvg-logo="" group-title=" TV Shows", THE WALKING DEAD
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143957.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Wire" tvg-logo="" group-title=" Binge Watch Episodes",- The Wire
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56899.ts
+#EXTINF:-1 tvg-id="" tvg-name="- The Wonder Years" tvg-logo="" group-title=" Binge Watch Episodes",- The Wonder Years
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56898.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Trigun" tvg-logo="" group-title=" Binge Watch Episodes",- Trigun
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56897.ts
+#EXTINF:-1 tvg-id="" tvg-name=" UNSOLVED MYSTERIES" tvg-logo="" group-title=" TV Shows", UNSOLVED MYSTERIES
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143955.ts
+#EXTINF:-1 tvg-id="" tvg-name=" VIKINGS" tvg-logo="" group-title=" TV Shows", VIKINGS
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143954.ts
+#EXTINF:-1 tvg-id="" tvg-name=" VOLTRON" tvg-logo="" group-title=" TV Shows", VOLTRON
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143953.ts
+#EXTINF:-1 tvg-id="" tvg-name="- Weeds" tvg-logo="" group-title=" Binge Watch Episodes",- Weeds
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56893.ts
+#EXTINF:-1 tvg-id="" tvg-name="WESTWORLD " tvg-logo="" group-title=" TV Shows",WESTWORLD 
+http://iptvhosting.org.uk:83/live/ttiurT.moT/moT.ttiurT/143994.ts
+#EXTINF:-1 tvg-id="" tvg-name="- White Collar" tvg-logo="" group-title=" Binge Watch Episodes",- White Collar
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/56891.ts
 
