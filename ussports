@@ -1,65 +1,84 @@
 #EXTM3U
-#EXTINF:-1,BTN
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143055.ts
-#EXTINF:-1,BTN
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143055.ts
-#EXTINF:-1,CBS SPORTS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143059.ts
-#EXTINF:-1,CBS SPORTS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143059.ts
+#EXTINF:-1,BIG TEN NETWORK
+http://144.217.74.96:826/live/TomTru/TomTru00050/1467.ts
+#EXTINF:-1,CBS Sports Network
+http://144.217.74.96:826/live/TomTru/TomTru00050/1281.ts
 #EXTINF:-1,ESPN
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143069.ts
-#EXTINF:-1,ESPN
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143069.ts
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/51.ts
+#EXTINF:-1,ESPN 
+http://144.217.74.96:826/live/TomTru/TomTru00050/1262.ts
+#EXTINF:-1,ESPN 
+http://144.217.74.96:826/live/TomTru/TomTru00050/1709.ts
 #EXTINF:-1,ESPN2
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143070.ts
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/50.ts
 #EXTINF:-1,ESPN2
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143070.ts
-#EXTINF:-1,ESPN  CLASSICS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143073.ts
-#EXTINF:-1,ESPN  CLASSICS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143073.ts
+http://144.217.74.96:826/live/TomTru/TomTru00050/1263.ts
+#EXTINF:-1,ESPN DEPORTES
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8407.ts
 #EXTINF:-1,ESPN NEWS
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143071.ts
-#EXTINF:-1,ESPN NEWS
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143071.ts
-#EXTINF:-1,ESPNU
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143072.ts
-#EXTINF:-1,ESPNU
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143072.ts
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/4100.ts
+#EXTINF:-1,ESPN News
+http://144.217.74.96:826/live/TomTru/TomTru00050/1275.ts
+#EXTINF:-1,ESPN U
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/553.ts
+#EXTINF:-1,ESPN U
+http://144.217.74.96:826/live/TomTru/TomTru00050/1274.ts
+#EXTINF:-1,ESPN CLASSIC
+http://144.217.74.96:826/live/TomTru/TomTru00050/26167.ts
+#EXTINF:-1,FOX SOCCER PLUS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7567.ts
 #EXTINF:-1,FOX SPORTS 1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/55.ts
 #EXTINF:-1,FOX SPORTS 1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+http://144.217.74.96:826/live/TomTru/TomTru00050/1367.ts
 #EXTINF:-1,FOX SPORTS 2
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143081.ts
+http://144.217.74.96:826/live/TomTru/TomTru00050/1471.ts
 #EXTINF:-1,FOX SPORTS 2
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143081.ts
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/56.ts
+#EXTINF:-1,NBC Golf
+http://144.217.74.96:826/live/TomTru/TomTru00050/1479.ts
 #EXTINF:-1,NBC GOLF
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143094.ts
-#EXTINF:-1,NBC GOLF
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143094.ts
-#EXTINF:-1,  Pac 12 Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:-1,  Pac 12 Bay Area
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1,  Pac 12 Los Angeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1,  Pac 12 Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1,  Pac 12 Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1,  Pac 12 Washington 
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1,RED BULL TV
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143024.ts
-#EXTINF:-1,RED BULL TV
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143024.ts
-#EXTINF:-1,SEC NETWORK
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143023.ts
-#EXTINF:-1,SEC NETWORK
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143023.ts
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/70.ts
+#EXTINF:-1,NBCSN
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/68.ts
+#EXTINF:-1,NBCSN 
+http://144.217.74.96:826/live/TomTru/TomTru00050/1396.ts
+#EXTINF:-1,PAC 12 ARIZONA
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/237.ts
+#EXTINF:-1,PAC 12 BAY AREA
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/236.ts
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/235.ts
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/234.ts
+#EXTINF:-1,PAC 12 NATIONAL
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/1063.ts
+#EXTINF:-1,PAC 12 OREGON
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/233.ts
+#EXTINF:-1,PAC 12 WASHINGTON
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/232.ts
+#EXTINF:-1,Pac-12 Network
+http://144.217.74.96:826/live/TomTru/TomTru00050/1413.ts
+#EXTINF:-1,Pac-12 Arizona
+http://144.217.74.96:826/live/TomTru/TomTru00050/1409.ts
+#EXTINF:-1,Pac-12 Washington
+http://144.217.74.96:826/live/TomTru/TomTru00050/1415.ts
+#EXTINF:-1,Pac-12 Oregon
+http://144.217.74.96:826/live/TomTru/TomTru00050/1414.ts
+#EXTINF:-1,Pac-12 Los Angeles
+http://144.217.74.96:826/live/TomTru/TomTru00050/1411.ts
+#EXTINF:-1,Pac-12 Bay Area
+http://144.217.74.96:826/live/TomTru/TomTru00050/1410.ts
+#EXTINF:-1,PAC-12 Mountain
+http://144.217.74.96:826/live/TomTru/TomTru00050/1596.ts
+#EXTINF:-1,TCN PHILLY
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/4097.ts
+#EXTINF:-1,TENNIS (SUPER)
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/9296.ts
 #EXTINF:-1,TENNIS CHANNEL
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/143031.ts
-#EXTINF:-1,TENNIS CHANNEL
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/143031.ts
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/5887.ts
+#EXTINF:-1,WWE NETWORK
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/1.ts
+#EXTINF:-1,WWE Network 
+http://144.217.74.96:826/live/TomTru/TomTru00050/1456.ts
+
