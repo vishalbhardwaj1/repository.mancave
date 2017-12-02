@@ -1,34 +1,24 @@
 #EXTM3U
-#EXTINF:-1,Boomerang
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142618.ts
-#EXTINF:-1,Boomerang
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142618.ts
-#EXTINF:-1,Cartoon Network
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142626.ts
-#EXTINF:-1,Cartoon Network
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142626.ts
-#EXTINF:-1,Disney Jr 
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142646.ts
-#EXTINF:-1,Disney Jr 
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142646.ts
-#EXTINF:-1,Disney XD
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142647.ts
-#EXTINF:-1,Disney XD
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142647.ts
-#EXTINF:-1,Nick Jr
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142694.ts
-#EXTINF:-1,Nick Jr
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142694.ts
-#EXTINF:-1,Nicktoons
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142695.ts
-#EXTINF:-1,Nicktoons
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142695.ts
-#EXTINF:-1,Nickelodeon
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142696.ts
-#EXTINF:-1,Nickelodeon
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142696.ts
-#EXTINF:-1,Qubo
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/142703.ts
-#EXTINF:-1,Qubo
-http://tvkings.vodiptv.org:83/live/mancave22/mancave22/142703.ts
+#EXTINF:-1,US: BABY TV
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/2728.ts
+#EXTINF:-1,US: BOOMERANG
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/35.ts
+#EXTINF:-1,US: CARTOON NETWORK
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/39.ts
+#EXTINF:-1,US: DISNEY CHANNEL
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/804.ts
+#EXTINF:-1,US: DISNEY JR
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/1852.ts
+#EXTINF:-1,US: DISNEY XD
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/803.ts
+#EXTINF:-1,US: NICK JR
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/830.ts
+#EXTINF:-1,US: NICK TOONS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/118.ts
+#EXTINF:-1,US: NICKELODEON
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/28.ts
+#EXTINF:-1,US: PBS KIDS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8451.ts
+#EXTINF:-1,US: QUBO
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/2600.ts
 
