@@ -1,26 +1,5 @@
 #EXTM3U
-#EXTINF:-1,NCAAF 1: #21 STANFORD AT #11 USC 12/1 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10985.ts
-#EXTINF:-1,NCAAF 2: UMASS AT FLORIDA INTL 12/2 TBD
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10984.ts
-#EXTINF:-1,NCAAF 3: #20 MEMPHIS AT #15 UCF 12/2 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10983.ts
-#EXTINF:-1,NCAAF 4: LOUISIANA MONROE AT FLORIDA STATE 12/2 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10982.ts
-#EXTINF:-1,NCAAF 5: AKRON AT TOLEDO 12/2 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10981.ts
-#EXTINF:-1,NCAAF 6: NORTH TEXAS AT FLORIDA ATLANTIC 12/2 12PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10980.ts
-#EXTINF:-1,NCAAF 7: #12 TCU AT #4 OKLAHOMA 12/2 1230PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10979.ts
-#EXTINF:-1,NCAAF 8: #7 GEORGIA #6 AUBURN 12/2 4PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10978.ts
-#EXTINF:-1,NCAAF 9: TROY AT ARKANSAS STATE 12/2 730PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10977.ts
-#EXTINF:-1,NCAAF 10: FRESNO STATE AT #23 BOISE STATE 12/2 745PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10976.ts
-#EXTINF:-1,NCAAF 11: #2 MIAMI AT #3 CLEMSON 12/2 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10975.ts
+
 #EXTINF:-1,NCAAF 12: #9 OHIO STATE AT #5 WISCONSIN 12/2 8PM EST
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/10974.ts
 
