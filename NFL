@@ -11,6 +11,8 @@ http://thesenutz.xyz:2052/live/fordtom/tomford2019/71.ts
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="https://i.imgur.com/MxQtVII.jpg" group-title="NFL",NFL REDZONE
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/7866.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Split Screen" tvg-logo="" group-title="NFL SUNDAY TICKET",NFL Split Screen
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/50120.ts
 #EXTINF:-1,TV Kings has all NFL Games
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/779.ts
 
