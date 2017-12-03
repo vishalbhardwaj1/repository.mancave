@@ -5,7 +5,7 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/9.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave/99.ts
 #EXTINF:-1,tvkingsiptv@gmail.com
 http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
-#EXTINF:-1 tvg-id="NFL" tvg-name="SP: NFL NETWORK" tvg-logo="http://teamnutz.info/guide/logos/NFL%20Network.png" group-title="Sports",SP: NFL NETWORK
+#EXTINF:-1 tvg-id="NFL" tvg-name="SP: NFL NETWORK" tvg-logo="http://teamnutz.info/guide/logos/NFL%20Network.png" group-title="Sports",NFL NETWORK
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/71.ts
 #EXTINF:-1,NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
