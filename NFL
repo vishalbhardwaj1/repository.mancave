@@ -9,20 +9,8 @@ http://tvkings.vodiptv.org:83/live/mancave/mancave/979.ts
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/143096.ts
 #EXTINF:-1,NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
-#EXTINF:-1,NFL REDZONE
-http://tvkings.vodiptv.org:83/live/mancave/mancave22/94761.ts
-#EXTINF:-1,NFL Browns vs Bengals
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8160.ts
-#EXTINF:-1,NFL Dolphins vs Patriots
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8157.ts
-#EXTINF:-1,NFL Seahawks vs 49ers 4:05pm
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/8154.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC" tvg-logo="" group-title="US Entertainment",SNF Packers vs Steelers 8:30pm HD
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/1475.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC 10 (WNBC) |US" tvg-logo="" group-title="USA",SNF Packers vs Steelers 8:30pm SD
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/2005.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC 4 (KNBC) |US" tvg-logo="" group-title="USA",SNF Packers vs Steelers 8:30pm SD
-http://tvstreams.xyz:83/live/twistednutz/thesespudz!25/2004.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="https://i.imgur.com/MxQtVII.jpg" group-title="NFL",NFL REDZONE
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7866.ts
 #EXTINF:-1,TV Kings has all NFL Games
 http://tvkings.vodiptv.org:83/live/mancave/mancave22/779.ts
 
