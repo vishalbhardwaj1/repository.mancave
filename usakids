@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1,US: BABY TV
+#EXTINF:-1,BABY TV
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/2728.ts
-#EXTINF:-1,US: BOOMERANG
+#EXTINF:-1,BOOMERANG
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/35.ts
-#EXTINF:-1,US: CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/39.ts
-#EXTINF:-1,US: DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/804.ts
-#EXTINF:-1,US: DISNEY JR
+#EXTINF:-1,DISNEY JR
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/1852.ts
-#EXTINF:-1,US: DISNEY XD
+#EXTINF:-1,DISNEY XD
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/803.ts
-#EXTINF:-1,US: NICK JR
+#EXTINF:-1,NICK JR
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/830.ts
-#EXTINF:-1,US: NICK TOONS
+#EXTINF:-1,NICK TOONS
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/118.ts
-#EXTINF:-1,US: NICKELODEON
+#EXTINF:-1,NICKELODEON
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/28.ts
-#EXTINF:-1,US: PBS KIDS
+#EXTINF:-1,PBS KIDS
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/8451.ts
-#EXTINF:-1,US: QUBO
+#EXTINF:-1,QUBO
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/2600.ts
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="USA | HBO Family" tvg-logo="http://edwardlamar.com/tvlogos/logos/HBO%20FAMILY.png" group-title="Premium Movie Channels",USA | HBO Family
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="USA | HBO Family" tvg-logo="http://edwardlamar.com/tvlogos/logos/HBO%20FAMILY.png" group-title="Premium Movie Channels",HBO Family
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47689.ts
-#EXTINF:-1 tvg-id="Showtime Family Zone" tvg-name="USA | Showtime Family Zone" tvg-logo="http://singletonentertainment.96.lt/wallpapers/iptv%20icons/showtime%20family.png" group-title="Premium Movie Channels",USA | Showtime Family Zone
+#EXTINF:-1 tvg-id="Showtime Family Zone" tvg-name="USA | Showtime Family Zone" tvg-logo="http://singletonentertainment.96.lt/wallpapers/iptv%20icons/showtime%20family.png" group-title="Premium Movie Channels",Showtime Family Zone
 http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47639.ts
