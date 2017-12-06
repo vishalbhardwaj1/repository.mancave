@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="http://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="UK Kids",Baby TV UK
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="" group-title="SD UK All",Boomerang SD
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143672.ts
 #EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" tvg-logo="" group-title="UK Kids",CBeebies
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143544.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="http://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="UK Kids",Cartoon Network UK
