@@ -28,4 +28,18 @@
 <fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
 </item>
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LITTLE RASCALS" tvg-logo="https://i.pinimg.com/originals/d2/f6/d4/d2f6d499cb71cf90144f38d9d5b99cbb.jpg" group-title="24/7",24/7 LITTLE RASCALS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7126.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAWPATROL" tvg-logo="" group-title="24/7",24/7 PAWPATROL
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/8559.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RESCUE RANGERS" tvg-logo="https://i.ytimg.com/vi/Usciv0MLfrQ/maxresdefault.jpg" group-title="24/7",24/7 RESCUE RANGERS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7101.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMURFS" tvg-logo="https://vignette.wikia.nocookie.net/smurfs/images/9/97/Episodeslider.jpg/revision/latest/scale-to-width-down/670?cb=20161208185133" group-title="24/7",24/7 SMURFS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/6764.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCATS" tvg-logo="http://news.thundercats.ws/wp-content/uploads/sites/6/2016/02/Thundercats-Wallpaper-1-HD_1299385920.jpg" group-title="24/7",24/7 THUNDERCATS
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/7103.ts
+
 </items>
+
