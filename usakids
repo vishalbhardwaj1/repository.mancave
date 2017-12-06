@@ -21,4 +21,6 @@ http://thesenutz.xyz:2052/live/fordtom/tomford2019/28.ts
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/8451.ts
 #EXTINF:-1,US: QUBO
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/2600.ts
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="USA | HBO Family" tvg-logo="http://edwardlamar.com/tvlogos/logos/HBO%20FAMILY.png" group-title="Premium Movie Channels",USA | HBO Family
+http://marveliptv.ddns.net:25461/live/YjN9LovmC5/aDlmfbfqeW/47689.ts
 
