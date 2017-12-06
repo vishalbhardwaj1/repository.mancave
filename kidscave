@@ -1,0 +1,22 @@
+<streamingInfos>
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+	<title>LIVE TV</title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+   <externallink>https://raw.githubusercontent.com/mancave22/repository.mancave/master/livekidstv$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+	<title></title>
+<link>ignore</link>
+<fanart>http://wizard.mancavekodi.com/images/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+   <externallink>$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+</streamingInfos>
