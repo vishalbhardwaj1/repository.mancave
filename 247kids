@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LITTLE RASCALS" tvg-logo="https://i.pinimg.com/originals/d2/f6/d4/d2f6d499cb71cf90144f38d9d5b99cbb.jpg" group-title="24/7",24/7 LITTLE RASCALS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LITTLE RASCALS" tvg-logo="https://i.pinimg.com/originals/d2/f6/d4/d2f6d499cb71cf90144f38d9d5b99cbb.jpg" group-title="24/7",LITTLE RASCALS
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/7126.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mickey and The Roadster Racers Show 24/7" tvg-logo="" group-title="24/7 TV Shows",Mickey and The Roadster Racers Show 24/7
+#EXTINF:-1 tvg-id="" tvg-name="Mickey and The Roadster Racers Show 24/7" tvg-logo="http://image.vam.synacor.com.edgesuite.net/fd/30/fd30d434322596b86ccf76e3eb0c048a77af7f2e" group-title="24/7 TV Shows",Mickey and The Roadster Racers Show
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143991.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PAWPATROL" tvg-logo="" group-title="24/7",24/7 PAWPATROL
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAWPATROL" tvg-logo="http://www.mascotshowsblog.com/wp-content/uploads/2016/03/property-header-paw-patrol-desktop-portrait-2x.png" group-title="24/7",PAWPATROL
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/8559.ts
-#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24/7" tvg-logo="" group-title="24/7 TV Shows",PEPPA PIG 24/7
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24/7" tvg-logo="http://craftstreet.co.uk/wp-content/uploads/2014/11/peppa-pig-51b3b8ce2ee37.png" group-title="24/7 TV Shows",PEPPA PIG
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143990.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 RESCUE RANGERS" tvg-logo="https://i.ytimg.com/vi/Usciv0MLfrQ/maxresdefault.jpg" group-title="24/7",24/7 RESCUE RANGERS
 http://thesenutz.xyz:2052/live/fordtom/tomford2019/7101.ts
