@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="http://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="UK Kids",Baby TV UK
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21037.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="" group-title="SD UK All",Boomerang SD
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="http://2.bp.blogspot.com/-cWirB-h_ojc/VOG3B-y_acI/AAAAAAAAALo/QQ4ZpWLCCcA/s940/Boomerang+New+look+recreation+for+blog.png" group-title="SD UK All",Boomerang SD
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143672.ts
-#EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" tvg-logo="" group-title="UK Kids",CBeebies
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" tvg-logo="http://orig12.deviantart.net/0fdc/f/2015/117/8/c/cbeebies_logo_by_danbaz-d8r8ozf.jpg" group-title="UK Kids",CBeebies
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143544.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="http://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="UK Kids",Cartoon Network UK
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21039.ts
@@ -20,9 +20,9 @@ http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21030.ts
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21036.ts
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Too UK" tvg-logo="http://static.iptv-epg.com/gb/NickJrToo.uk.png" group-title="UK Kids",Nick Jr Too UK
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21040.ts
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon UK" tvg-logo="http://static.iptv-epg.com/us/Nickelodeon.uk.png" group-title="UK Kids",Nickelodeon UK
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon UK" tvg-logo="http://orig08.deviantart.net/307e/f/2012/068/0/c/nickelodeon_logo_by_urbinator17-d4s8zzx.png" group-title="UK Kids",Nickelodeon UK
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21043.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation" tvg-logo="" group-title="UK Movies",Sky Cinema Animation
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation" tvg-logo="http://www.asset1.net/tv/pictures/movie/sky-cinema-assets-do-not-publish-2016/SC-Animation-Trolls-1-1.jpg" group-title="UK Movies",Sky Cinema Animation
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143534.ts
-#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Cinema Disney" tvg-logo="" group-title="UK Movies",Sky Cinema Disney
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Cinema Disney" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/SkyCinema-DISNEY.png" group-title="UK Movies",Sky Cinema Disney
 http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143537.ts
