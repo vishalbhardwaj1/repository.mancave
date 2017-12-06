@@ -1,23 +1,26 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="http://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="UK Kids",Baby TV UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21037.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21037.ts
 #EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" tvg-logo="" group-title="UK Kids",CBeebies
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/143544.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143544.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="http://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="UK Kids",Cartoon Network UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21039.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21039.ts
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito UK" tvg-logo="http://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="UK Kids",Cartoonito UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21042.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21042.ts
 #EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="Disney Channel UK" tvg-logo="http://static.iptv-epg.com/gb/DisneyChannel.uk.png" group-title="UK Kids",Disney Channel UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21032.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21032.ts
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior UK" tvg-logo="http://static.iptv-epg.com/us/DisneyJunior.us.png" group-title="UK Kids",Disney Junior UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21033.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21033.ts
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD US" tvg-logo="http://static.iptv-epg.com/us/DisneyXD.us.png" group-title="UK Kids",Disney XD US
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21030.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21030.ts
 #EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="Nick Jr UK" tvg-logo="http://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="UK Kids",Nick Jr UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21036.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21036.ts
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Too UK" tvg-logo="http://static.iptv-epg.com/gb/NickJrToo.uk.png" group-title="UK Kids",Nick Jr Too UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21040.m3u8
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21040.ts
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon UK" tvg-logo="http://static.iptv-epg.com/us/Nickelodeon.uk.png" group-title="UK Kids",Nickelodeon UK
-http://93.190.143.231:83/live/ttiurT.moT/moT.ttiurT/21043.m3u8
-
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/21043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation" tvg-logo="" group-title="UK Movies",Sky Cinema Animation
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143534.ts
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Cinema Disney" tvg-logo="" group-title="UK Movies",Sky Cinema Disney
+http://r.ocdtv.co.uk:83/live/ttiurT.moT/moT.ttiurT/143537.ts
