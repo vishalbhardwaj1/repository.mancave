@@ -1,5 +1,82 @@
 #EXTM3U
-
-#EXTINF:-1,NCAAF 12: #9 OHIO STATE AT #5 WISCONSIN 12/2 8PM EST
-http://thesenutz.xyz:2052/live/fordtom/tomford2019/10974.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 1: ARMY AT NAVY 11/9 12PM EST" tvg-logo="" group-title="NCAAF",NCAAF 1: ARMY AT NAVY 11/9 12PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12545.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 2: TROY AT NORTH TEXAS 12/16 1PM EST" tvg-logo="" group-title="NCAAF",NCAAF 2: TROY AT NORTH TEXAS 12/16 1PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12544.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 3: WESTERN KENTUCKY AT GEORGIA STATE 230PM EST" tvg-logo="" group-title="NCAAF",NCAAF 3: WESTERN KENTUCKY AT GEORGIA STATE 230PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12543.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 4: BOISE STATE AT OREGON 12/16 330PM EST" tvg-logo="" group-title="NCAAF",NCAAF 4: BOISE STATE AT OREGON 12/16 330PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12542.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 5: MARSHALL AT COLORADO STATE 330PM EST" tvg-logo="" group-title="NCAAF",NCAAF 5: MARSHALL AT COLORADO STATE 330PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12541.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 6: MIDDLE TENNESSEE AT ARKANSAS STATE 12/16 8PM EST" tvg-logo="" group-title="NCAAF",NCAAF 6: MIDDLE TENNESSEE AT ARKANSAS STATE 12/16 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12540.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 7: AKRON AT FLORIDA ATLANTIC 12/19 7PM EST" tvg-logo="" group-title="NCAAF",NCAAF 7: AKRON AT FLORIDA ATLANTIC 12/19 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12539.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 8: LOUISIANA TECH AT SMU 12/20 8PM EST" tvg-logo="" group-title="NCAAF",NCAAF 8: LOUISIANA TECH AT SMU 12/20 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12538.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 9: TEMPLE AT FLORIDA STATE 12/21 8PM EST" tvg-logo="" group-title="NCAAF",NCAAF 9: TEMPLE AT FLORIDA STATE 12/21 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12537.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 10: UAB AT OHIO 12/22 1230PM EST" tvg-logo="" group-title="NCAAF",NCAAF 10: UAB AT OHIO 12/22 1230PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12536.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 11: CENTRAL MICHIGAN AT WYOMING 12/22 4PM EST" tvg-logo="" group-title="NCAAF",NCAAF 11: CENTRAL MICHIGAN AT WYOMING 12/22 4PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12535.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 12: TEXAS TECH AT SOUTH FLORIDA 12/23 12PM EST" tvg-logo="" group-title="NCAAF",NCAAF 12: TEXAS TECH AT SOUTH FLORIDA 12/23 12PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12534.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 13: SAN DIEGO STATE AT ARMY 12/23 330PM EST" tvg-logo="" group-title="NCAAF",NCAAF 13: SAN DIEGO STATE AT ARMY 12/23 330PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12533.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 14: APPALACHIAN STATE AT TOLEDO 12/23 7PM EST" tvg-logo="" group-title="NCAAF",NCAAF 14: APPALACHIAN STATE AT TOLEDO 12/23 7PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12532.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 15: FRESNO STATE AT HOUSTON 12/24 830PM EST" tvg-logo="" group-title="NCAAF",NCAAF 15: FRESNO STATE AT HOUSTON 12/24 830PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12531.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 16: UTAH AT WEST VIRGINIA 12/26 130PM EST" tvg-logo="" group-title="NCAAF",NCAAF 16: UTAH AT WEST VIRGINIA 12/26 130PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12530.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 17: DUKE AT NORTHERN ILLINOIS 515PM EST" tvg-logo="" group-title="NCAAF",NCAAF 17: DUKE AT NORTHERN ILLINOIS 515PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12529.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 18: KANSAS STATE AT UCLA 12/26 9PM EST" tvg-logo="" group-title="NCAAF",NCAAF 18: KANSAS STATE AT UCLA 12/26 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12528.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 19: SOUTHERN MISSISSIPPI AT FLORIDA STATE 12/27 130PM EST" tvg-logo="" group-title="NCAAF",NCAAF 19: SOUTHERN MISSISSIPPI AT FLORIDA STATE 12/27 130PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12527.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 20: IOWA AT BOSTON COLLEGE 12/27 515PM EST" tvg-logo="" group-title="NCAAF",NCAAF 20: IOWA AT BOSTON COLLEGE 12/27 515PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12526.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 20: NEW MEXICO STATE AT UTAH STATE 12/29 530PM EST" tvg-logo="" group-title="NCAAF",NCAAF 20: NEW MEXICO STATE AT UTAH STATE 12/29 530PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12516.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 21: #8 USC AT #5 OHIO STATE 12/29 830PM EST" tvg-logo="" group-title="NCAAF",NCAAF 21: #8 USC AT #5 OHIO STATE 12/29 830PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12515.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 21: ARIZONA AT PURDUE 12/27 830PM EST" tvg-logo="" group-title="NCAAF",NCAAF 21: ARIZONA AT PURDUE 12/27 830PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12525.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 22: LOUISVILLE AT #23 MISSISSIPPI STATE 12/30 12PM EST" tvg-logo="" group-title="NCAAF",NCAAF 22: LOUISVILLE AT #23 MISSISSIPPI STATE 12/30 12PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12514.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 22: TEXAS AT MISSOURI 12/27 9PM EST" tvg-logo="" group-title="NCAAF",NCAAF 22: TEXAS AT MISSOURI 12/27 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12524.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 23: IOWA STATE AT #20 MEMPHIS 12/30 1230PM EST" tvg-logo="" group-title="NCAAF",NCAAF 23: IOWA STATE AT #20 MEMPHIS 12/30 1230PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12513.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 23: VIRGINIA AT NAVY 12/28 130PM EST" tvg-logo="" group-title="NCAAF",NCAAF 23: VIRGINIA AT NAVY 12/28 130PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12523.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 24: #11 WASHINGTON AT #9 PENN STATE 12/30 4PM EST" tvg-logo="" group-title="NCAAF",NCAAF 24: #11 WASHINGTON AT #9 PENN STATE 12/30 4PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12512.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 24: #22 VIRGINIA TECH AT #19 OKLAHOMA STATE 12/28 515PM EST" tvg-logo="" group-title="NCAAF",NCAAF 24: #22 VIRGINIA TECH AT #19 OKLAHOMA STATE 12/28 515PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12522.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 25: #13 STANFORD AT #15 TCU 12/28 9PM EST" tvg-logo="" group-title="NCAAF",NCAAF 25: #13 STANFORD AT #15 TCU 12/28 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12521.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 25: #6 WISCONSIN AT #10 MIAMI 12/30 8PM EST" tvg-logo="" group-title="NCAAF",NCAAF 25: #6 WISCONSIN AT #10 MIAMI 12/30 8PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12511.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 26: #18 WASHINGTON STATE AT #16 MICHIGAN STATE 12/28 9PM EST" tvg-logo="" group-title="NCAAF",NCAAF 26: #18 WASHINGTON STATE AT #16 MICHIGAN STATE 12/28 9PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12520.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 26: MICHIGAN AT SOUTH CAROLINA 1/1 12PM EST" tvg-logo="" group-title="NCAAF",NCAAF 26: MICHIGAN AT SOUTH CAROLINA 1/1 12PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12510.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 27: #12 UCF AT #7 AUBURN 1/1 1230PM EST" tvg-logo="" group-title="NCAAF",NCAAF 27: #12 UCF AT #7 AUBURN 1/1 1230PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12509.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 27: WAKE FOREST AT TEXAS A&M 12/29 1PM EST" tvg-logo="" group-title="NCAAF",NCAAF 27: WAKE FOREST AT TEXAS A&M 12/29 1PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12519.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 28: #14 NOTRE DAME AT #17 LSU 1/1 1PM EST" tvg-logo="" group-title="NCAAF",NCAAF 28: #14 NOTRE DAME AT #17 LSU 1/1 1PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12508.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 28: #24 NC STATE AT ARIZONA STATE 12/29 3PM EST" tvg-logo="" group-title="NCAAF",NCAAF 28: #24 NC STATE AT ARIZONA STATE 12/29 3PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12518.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 29: #3 GEORGIA AT #2 OKLAHOMA 1/1 5PM EST" tvg-logo="" group-title="NCAAF",NCAAF 29: #3 GEORGIA AT #2 OKLAHOMA 1/1 5PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12507.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 29: #4 ALABAMA AT #1 CLEMSON 1/1 845PM EST" tvg-logo="" group-title="NCAAF",NCAAF 29: #4 ALABAMA AT #1 CLEMSON 1/1 845PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12506.ts
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 29: KENTUCKY AT #21 NORTHWESTERN 12/29 430PM EST" tvg-logo="" group-title="NCAAF",NCAAF 29: KENTUCKY AT #21 NORTHWESTERN 12/29 430PM EST
+http://thesenutz.xyz:2052/live/fordtom/tomford2019/12517.ts
 
